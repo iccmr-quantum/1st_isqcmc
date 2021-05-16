@@ -14,7 +14,7 @@ There is a long history of research into using computers for music since the 195
 
 This first-ever quantum computer music symposium focuses on quantum computing for musical creativity. It takes place in the context of the [QuTune Project](https://iccmr-quantum.github.io/), developed at the [University of Plymouth's ICCMR](http://cmr.soc.plymouth.ac.uk/) in collaboration with [Cambridge Quantum Computing](https://cambridgequantum.com/).  In addition to creating resources for quantum computer music, QuTune is aimed at fostering a quantum-ready music tech community of early adopters.
 
-The symposium will comprise talks about the resources being developed by the QuTune team and works by invited presenters. It will include a hands-on introduction to programming quantum computing for musicians and practical demonstrations. And we welcome proposals for presentations (see How to participate below).
+The symposium will comprise talks about the resources being developed by the QuTune team and works by invited presenters. It will include a hands-on introduction to programming quantum computers for musicians and practical demonstrations. And we welcome proposals for presentations (see How to participate below).
 
 The symposium will take place online and attendance is free of charge. But places are limited. 
 
