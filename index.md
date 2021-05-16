@@ -35,7 +35,7 @@ A background in computer music and/or music technology is required to follow the
 
 To express your interest to participate, please fill in the form (link below).  The organizing team will contact you after the application deadline. If you are selected, then you will be given further instructions to access the event.
 
-We are very keen to welcome those who already have been working with quantum computer music to present their work. Should you wish to present, please tell us so on the form, where there is space to write an abstract of your work. Should you qualify for a presentation, we will send you instructions for writing a paper. We are planning to publish a selection of papers as a special issue of _Contemporary Music Journal_.
+We are very keen to welcome those who already have been working with quantum computer music to present their work. If you wish to present, then please let us know. There is space on the form to write an abstract of your work. Should you qualify for a presentation, we will send you instructions for writing a paper. We are planning to publish a selection of papers as a special issue of _Contemporary Music Journal_.
 
 Deadline for application: 22 October 2021, 22:00 GMT.
 
