@@ -43,7 +43,7 @@ We are very keen to welcome those who already have been working with quantum com
 
 Note: Times in GMT (London, UK time zone)
 
-# ------------- DAY 1: 19 Nov 2021 -----------------
+# DAY 1: 19 Nov 2021 
 
 09:00 - 9:50:
 - **Welcome and Introduction to QuTunes Project**
@@ -69,7 +69,7 @@ Note: Times in GMT (London, UK time zone)
 - **Practical Examples & Examples of Compositions**
 - _Convener: Eduardo R. Miranda_
 
-# ------------- DAY 2: 20 Nov 2021 -----------------
+#  DAY 2: 20 Nov 2021
 
 ### Tutorial II
 
