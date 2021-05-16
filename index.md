@@ -1,7 +1,5 @@
 -----------------------------------------------------------------------
-
-![plain](https://user-images.githubusercontent.com/46610354/118362582-e9a43f80-b587-11eb-8ab6-af2dd66af40d.png)
-
+![plain](https://user-images.githubusercontent.com/46610354/118399510-69e4a680-b655-11eb-82d8-6d17ecd761c7.png)
 ----------------------------------------------------------------------
 
 ## Fri 19 and Sat 20 November, 2021 
