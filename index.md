@@ -8,7 +8,7 @@
 ## Online Event
 
 # Introduction
-### 1st International Symposium on Quantum Computing for Musical Creativity
+### 1st International Symposium on Quantum Computing and Musical Creativity
 
 Quantum computing is a nascent technology, which is advancing rapidly. 
 
