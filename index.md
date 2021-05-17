@@ -39,7 +39,7 @@ We are very keen to welcome those who already have been working with quantum com
 
 Deadline for application: 22 October 2021, 22:00 GMT.
 
-[[Click here for ppplication form]](https://docs.google.com/forms/d/1K9Gd98knuxslQWpSOV7LRZD_eJHzP8XL5F6m8qAiob4/viewform?edit_requested=true)
+[[Click here for ppplication form]](https://forms.gle/z6nKn7SPPPGhWFfQA)
 
 # Programme
 (To be confirmed)
