@@ -41,6 +41,9 @@ Deadline for application: **22 October 2021, 22:00 GMT**.
 
 [[Click here to access the application form]](https://forms.gle/z6nKn7SPPPGhWFfQA)
 
+
+For more information: contact.isqcmc@gmail.com
+
 # Programme
 (To be confirmed)
 
