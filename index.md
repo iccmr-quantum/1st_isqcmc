@@ -72,7 +72,7 @@ Note: Times in GMT (London, UK time zone)
 ### Musical Demonstrations
 
 18:15 – 19:15: 
-- **Practical Examples & Examples of Compositions**
+- **Examples of Compositions**
 - _Convener: Eduardo R. Miranda_
 
 #  DAY 2: 20 Nov 2021
