@@ -29,9 +29,9 @@ The symposium will take place online and attendance is free of charge. But place
 
 # How to participate
 
-The target audience for this symposium is musicians interested in experimenting with quantum computers for musical composition and/or performance. Quantum computing developers and researchers interested in music are also welcome. 
+The target audience for this symposium is musicians interested in experimenting with quantum computers for musical composition and/or performance. Quantum computing developers and researchers interested in music are welcome. 
 
-A background in computer music and/or music technology is required to follow the presentations. Previous experience with computer programming, in particular Python, is required to follow the tutorial. Previous knowledge of quantum computing is not required but would be beneficial.
+A background in computer music and/or music technology is recommended to follow the presentations. Previous experience with computer programming, in particular Python, is required to benefit from the tutorial. Previous knowledge of quantum computing is not required but would be beneficial.
 
 To express your interest to participate, please fill in the form (link below).  The organizing team will contact you after the application deadline. If you are selected, then you will be given further instructions to access the event.
 
