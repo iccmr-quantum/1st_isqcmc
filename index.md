@@ -18,7 +18,7 @@ The envisaged programme comprises talks about the resources being developed by t
 
 The symposium will take place online and attendance is free of charge. But places are limited. 
 
-# Organisers
+# Organising Team
 - Eduardo R. Miranda (ICCMR, University of Plymouth, UK)
 - Bob Coecke (Cambridge Quantum Computing, UK)
 - Omar Costa Hamido (ICCMR, University of Plymouth, UK)
