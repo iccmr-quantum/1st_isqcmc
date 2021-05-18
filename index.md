@@ -10,7 +10,7 @@
 
 Quantum computing is a nascent technology, which is advancing rapidly. 
 
-There is a long history of research into using computers for music since the 1950s. Nowadays computers are essential for the music economy. Therefore, is very likely that quantum computers will impact the music industry in the time to come. A new area of research and development is emerging, _Quantum Computer Music_.
+There is a long history of research into using computers for music since the 1950s. Nowadays computers are essential for the music economy. Therefore, it is very likely that quantum computers will impact the music industry in the time to come. A new area of research and development is emerging, _Quantum Computer Music_.
 
 This first-ever quantum computer music symposium focuses on quantum computing for musical creativity. It takes place in the context of the [QuTune Project](https://iccmr-quantum.github.io/), developed at the [University of Plymouth's ICCMR](http://cmr.soc.plymouth.ac.uk/) in collaboration with [Cambridge Quantum Computing](https://cambridgequantum.com/).  In addition to creating resources for quantum computer music, QuTune is aimed at fostering a quantum-ready music tech community of early adopters.
 
