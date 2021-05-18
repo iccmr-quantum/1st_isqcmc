@@ -31,13 +31,13 @@ The symposium will take place online and attendance is free of charge. But place
 
 The target audience for this symposium is musicians interested in experimenting with quantum computers for musical composition and/or performance. Quantum computing developers and researchers interested in music are welcome. 
 
-A background in computer music and/or music technology is recommended to follow the presentations. Previous experience with computer programming, in particular Python, is required to benefit from the tutorial. Previous knowledge of quantum computing is not required but would be beneficial.
+A background in computer music and/or music technology is recommended to follow the presentations. Previous experience with computer programming, in particular Python, is required to benefit from the tutorial. Familiarity with quantum computing is not mandatory, but would be advantageous. ([Here]https://www.ibm.com/quantum-computing/what-is-quantum-computing/ is a good place to start.)
 
-To express your interest to participate, please fill in the form (link below).  The organizing team will contact you after the application deadline. If you are selected, then you will be given further instructions to access the event.
+To express your interest to participate, please fill in the form (link to access the form is below).  The organizing team will contact you after the application deadline. If you are selected, then you will be given further instructions to access the event.
 
-We are very keen to welcome those who already have been working with quantum computer music to present their work. If you wish to present, then please let us know. There is space on the form to write an abstract of your work. Should you qualify for a presentation, we will send you instructions for writing a paper. We are planning to publish a selection of papers as a special issue of _Contemporary Music Journal_.
+We are very keen to welcome those who already have been working with quantum computer music to present their work. If you wish to present, then please let us know. There is space on the form to briefly describe the work that you would like to present. Should you qualify for a presentation, then we will send you instructions for writing a short paper. We are planning to publish a selection of papers as a special issue of _Contemporary Music Journal_.
 
-Deadline for application: 22 October 2021, 22:00 GMT.
+Deadline for application: **22 October 2021, 22:00 GMT**.
 
 [[Click here to access the application form]](https://forms.gle/z6nKn7SPPPGhWFfQA)
 
