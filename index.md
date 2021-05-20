@@ -91,7 +91,7 @@ Note: Times in GMT (London, UK time zone)
 
 ### Research Papers Session IV
 
-13:00 - 14:30
+13:00 - 14:30:
 
 ### Brainstorming Sessions (By invitation only)
 
