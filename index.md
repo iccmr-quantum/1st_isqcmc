@@ -93,7 +93,7 @@ Note: Times in GMT (London, UK time zone)
 
 13:00 - 14:30:
 
-### Brainstorming Sessions (By invitation only)
+### Focused Brainstorming Sessions (By invitation only)
 
 15:00 – 18:00: 
 
