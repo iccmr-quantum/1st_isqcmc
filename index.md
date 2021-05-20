@@ -21,6 +21,8 @@ The symposium will take place online and attendance is free of charge. But place
 # Organising Team
 - Eduardo R. Miranda (ICCMR, University of Plymouth, UK)
 - Bob Coecke (Cambridge Quantum Computing, UK)
+- Sieglinde Pfaendler (IBM Quantum, Europe)
+- Fabio Scafirimuto (IBM Quantum, Switzerland)
 - Omar Costa Hamido (ICCMR, University of Plymouth, UK)
 - Paulo Itaborai (ICCMR, University of Plymouth, UK)
 - Suchitra Basak (ICCMR, University of Plymouth, UK)
@@ -63,11 +65,11 @@ Note: Times in GMT (London, UK time zone)
 
 ### Research Papers Session I
 
-13:00 – 15:15 
+13:00 – 15:00 
 
 ### Research Papers Session II
 
-15:45 - 18:00: 
+15:30 - 18:00: 
 
 ### Musical Demonstrations
 
@@ -79,21 +81,25 @@ Note: Times in GMT (London, UK time zone)
 
 ### Tutorial II
 
-10:00 - 12:00:
+09:00 - 11:00:
 - **Introduction to Quantum Computing for Musicians – Part 2**
 - _Omar Costa Hamido_
 
 ### Research Papers Session III
 
-13:00 – 15:15: 
+11:30 – 12:30: 
 
 ### Research Papers Session IV
 
-15:45 – 18:00: 
+13:00 - 14:30
+
+### Brainstorming Sessions (By invitation only)
+
+15:00 – 18:00: 
 
 ### Demonstration
 
 18:15 – 19:15: 
 
 - **Quantum Music Playground**
-- _James Weaver_ (IBM Quantum)
+- _James Weaver_ (IBM Quantum, USA)
