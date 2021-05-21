@@ -103,3 +103,7 @@ Note: Times in GMT (London, UK time zone)
 
 - **Quantum Music Playground**
 - _James Weaver_ (IBM Quantum, USA)
+
+### Announcements and Goodbye
+
+19:15 - 19:45
