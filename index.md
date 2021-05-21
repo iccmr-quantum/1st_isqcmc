@@ -21,6 +21,7 @@ The symposium will take place online and attendance is free of charge. But place
 # Organising Team
 - Eduardo R. Miranda (ICCMR, University of Plymouth, UK)
 - Bob Coecke (Cambridge Quantum Computing, UK)
+- Ilyas Khan (Cambridge Quantum Computing, UK)
 - Sieglinde Pfaendler (IBM Quantum, Europe)
 - Fabio Scafirimuto (IBM Quantum, Switzerland)
 - Omar Costa Hamido (ICCMR, University of Plymouth, UK)
