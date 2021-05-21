@@ -1,5 +1,4 @@
-
-![plain](https://user-images.githubusercontent.com/46610354/118399510-69e4a680-b655-11eb-82d8-6d17ecd761c7.png)
+![img](./img.png)
 
 
 ## Fri 19 and Sat 20 November, 2021 
@@ -10,13 +9,13 @@
 
 Quantum computing is a nascent technology, which is advancing rapidly. 
 
-There is a long history of research into using computers for music since the 1950s. Nowadays computers are essential for the music economy. Therefore, it is very likely that quantum computers will impact the music industry in the time to come. A new area of research and development is emerging, _Quantum Computer Music_.
+There is a long history of research into using computers for music since the 1950s. Nowadays computers are essential for the music economy. Therefore, it is very likely that quantum computers will impact the music industry in the time to come. A new area of research and development is emerging: _Quantum Computer Music_.
 
 This first-ever quantum computer music symposium focuses on quantum computing for musical creativity. It takes place in the context of the [QuTune Project](https://iccmr-quantum.github.io/), developed at the [University of Plymouth's ICCMR](http://cmr.soc.plymouth.ac.uk/) in collaboration with [Cambridge Quantum Computing](https://cambridgequantum.com/) and [IBM Quantum](https://www.ibm.com/quantum-computing/).  In addition to creating resources for quantum computer music, QuTune is aimed at fostering a quantum-ready music tech community of early adopters.
 
-The envisaged programme comprises talks about the resources being developed by the QuTune team and works by invited presenters. It offers a hands-on introduction to programming quantum computers for musicians and practical demonstrations. And we welcome proposals for presentations (see How to participate below).
+The envisaged programme comprises talks about the resources being developed by the QuTune team and works by invited presenters. It offers a hands-on introduction to programming quantum computers for musicians and practical demonstrations. We welcome proposals for presentations (see [How to participate](#how-to-participate) below).
 
-The symposium will take place online and attendance is free of charge. But places are limited. 
+The symposium will take place online and attendance is free of charge. Places are limited, [registration](https://forms.gle/z6nKn7SPPPGhWFfQA) is required.
 
 # Organising Team
 - Eduardo R. Miranda (ICCMR, University of Plymouth, UK)
@@ -32,9 +31,9 @@ The symposium will take place online and attendance is free of charge. But place
 
 # How to participate
 
-The target audience for this symposium is musicians interested in experimenting with quantum computers for musical composition and/or performance. Quantum computing developers and researchers interested in music are welcome. 
+The target audience for this symposium is musicians interested in reflecting on and experimenting with quantum computers for musical composition and/or performance. Quantum computing developers and researchers interested in music are welcome. 
 
-A background in computer music and/or music technology is recommended in order to follow the presentations. Previous experience with computer programming, in particular Python, is required to benefit from the tutorial. Familiarity with quantum computing is not mandatory, but would be advantageous. ([Here](https://www.ibm.com/quantum-computing/what-is-quantum-computing/) is a good place to start.)
+A background in computer music and/or music technology is recommended in order to follow the presentations. Previous experience with computer programming, in particular Python, is also recommended to benefit from the tutorial. Familiarity with quantum computing is not mandatory, but would be advantageous. ([Here](https://www.ibm.com/quantum-computing/what-is-quantum-computing/) is a good place to start.)
 
 To express your interest in participating, please fill in the form (link to access the form is below).  The organizing team will contact you after the application deadline. If you are selected, then you will be given further instructions to access the event.
 
@@ -50,7 +49,7 @@ For more information: contact.isqcmc@gmail.com
 # Programme
 (To be confirmed)
 
-Note: Times in GMT (London, UK time zone)
+Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](https://www.inyourowntime.zone/2021-11-19_09.00_Europe.London))
 
 # DAY 1: 19 Nov 2021 
 
@@ -75,6 +74,7 @@ Note: Times in GMT (London, UK time zone)
 ### Musical Demonstrations
 
 18:15 – 19:15: 
+
 - **Examples of Compositions**
 - _Convener: Eduardo R. Miranda_
 
