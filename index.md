@@ -106,4 +106,4 @@ Note: Times in GMT (London, UK time zone)
 
 ### Announcements and Goodbye
 
-19:15 - 19:45
+19:15 - 19:45:
