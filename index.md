@@ -33,7 +33,7 @@ The symposium will take place online and attendance is free of charge. Places ar
 
 The target audience for this symposium is musicians interested in reflecting on and experimenting with quantum computers for musical composition and/or performance. Quantum computing developers and researchers interested in music are welcome. 
 
-A background in computer music and/or music technology is recommended in order to follow the presentations. Previous experience with computer programming, in particular Python, is also recommended to benefit from the tutorial. Familiarity with quantum computing is not mandatory, but would be advantageous. ([Here](https://www.ibm.com/quantum-computing/what-is-quantum-computing/) is a good place to start. A short video explanation is [here ](https://www.youtube.com/watch?v=jHoEjvuPoB8)).
+A background in computer music and/or music technology is recommended in order to follow the presentations. Previous experience with computer programming, in particular Python, is also recommended to benefit from the tutorial. Familiarity with quantum computing is not mandatory, but would be advantageous. ([Here](https://www.ibm.com/quantum-computing/what-is-quantum-computing/) is a good place to start. A good popular science explanation with a short video is [here](https://www.quantamagazine.org/why-is-quantum-computing-so-hard-to-explain-20210608/)).
 
 To express your interest in participating, please fill in the form (link to access the form is below).  The organizing team will contact you after the application deadline. If you are selected, then you will be given further instructions to access the event.
 
