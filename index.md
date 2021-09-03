@@ -49,6 +49,11 @@ We are very keen to welcome those who already have been working with quantum com
 &#x1F534;  We will contact applicants soon. 
 #### --------------------------------------------
 
+```diff
++ this text is highlighted in green
+- this text is highlighted in red
+```
+
 For more information: contact.isqcmc@gmail.com
 
 # Programme
