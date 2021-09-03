@@ -44,7 +44,7 @@ We are very keen to welcome those who already have been working with quantum com
 ```diff
 - Application for this event is now closed. 
 - Thank you for your interest. 
-- We will contact applicants soon. 
+- The organising team will contact applicants soon. 
 ```
 
 For more information: contact.isqcmc@gmail.com
