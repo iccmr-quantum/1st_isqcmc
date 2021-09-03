@@ -42,9 +42,9 @@ We are very keen to welcome those who already have been working with quantum com
 <strike>Deadline for application: **03 September 2021, 22:00 GMT**. (Please note: deadline is changed to early September. Due to surprising number of applicants, the team will need more time to process the forms and prepare for the event.)</strike>
 
 #### --------------------------------------------
-&#x1F534 Application for this event is now closed. 
-&#x1F534 Thank you for your interest. 
-&#x1F534 We will contact applicants soon. 
+&#x1F534; Application for this event is now closed. 
+&#x1F534; Thank you for your interest. 
+&#x1F534; We will contact applicants soon. 
 #### --------------------------------------------
 
 For more information: contact.isqcmc@gmail.com
