@@ -50,8 +50,9 @@ We are very keen to welcome those who already have been working with quantum com
 #### --------------------------------------------
 
 ```diff
-+ this text is highlighted in green
-- this text is highlighted in red
+- Application for this event is now closed. 
+- Thank you for your interest. 
+- We will contact applicants soon. 
 ```
 
 For more information: contact.isqcmc@gmail.com
