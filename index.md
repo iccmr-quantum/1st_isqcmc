@@ -15,7 +15,7 @@ This first-ever quantum computer music symposium focuses on quantum computing fo
 
 The envisaged programme comprises talks about the resources being developed by the QuTune team and works by invited presenters. It offers a hands-on introduction to programming quantum computers for musicians and practical demonstrations. We welcome proposals for presentations (see [How to participate](#how-to-participate) below).
 
-The symposium will take place online and attendance is free of charge. Places are limited, registration is required. Registration information will be posted here in due time. Please watch this space.
+The symposium will take place online and attendance is free of charge. Places are limited, registration is required. Registration information will be posted here in due time. Please watch this space. 
 
 # Organising Team
 - Eduardo R. Miranda (ICCMR, University of Plymouth, UK)
