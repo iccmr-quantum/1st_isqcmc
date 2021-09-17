@@ -15,7 +15,7 @@ This first-ever quantum computer music symposium focuses on quantum computing fo
 
 The envisaged programme comprises talks about the resources being developed by the QuTune team and works by invited presenters. It offers a hands-on introduction to programming quantum computers for musicians and practical demonstrations. We welcome proposals for presentations (see [How to participate](#how-to-participate) below).
 
-The symposium will take place online and attendance is free of charge. Places are limited, [registration](https://forms.gle/z6nKn7SPPPGhWFfQA) is required.
+The symposium will take place online and attendance is free of charge. Places are limited, registration is required. Registration information will be posted here in due time. Please watch this space. 
 
 # Organising Team
 - Eduardo R. Miranda (ICCMR, University of Plymouth, UK)
@@ -35,16 +35,13 @@ The target audience for this symposium is musicians interested in reflecting on 
 
 A background in computer music and/or music technology is recommended in order to follow the presentations. Previous experience with computer programming, in particular Python, is also recommended to benefit from the tutorial. Familiarity with quantum computing is not mandatory, but would be advantageous. ([Here](https://www.ibm.com/quantum-computing/what-is-quantum-computing/) is a good place to start. A good popular science explanation with a short video is [here](https://www.quantamagazine.org/why-is-quantum-computing-so-hard-to-explain-20210608/)).
 
-To express your interest in participating, please fill in the form (link to access the form is below).  The organizing team will contact you after the application deadline. If you are selected, then you will be given further instructions to access the event.
+To express your interest in participating, please fill in the form (link to access the form has expired).  The organizing team will contact you after the application deadline with further instructions to access the event.
 
 We are very keen to welcome those who already have been working with quantum computer music to present their work. If you wish to present, then please let us know. There is space on the form to briefly describe the work that you would like to present. Should you qualify for a presentation, then we will send you instructions for writing a short paper. We are planning to publish a selection of papers as a special issue of _Contemporary Music Journal_.
 
-Deadline for application: **03 September 2021, 22:00 GMT**. (Please note: deadline is changed to early September. Due to surprising number of applicants, the team will need more time to process the forms and prepare for the event.)
+#### NOTE: The deadline to submit papers for presentation expired on 03 September 2021. If wou just want to watch the presentations and tutorial, don't panic! Instructions for registering to watch the presentations and tutorial will be posted on this webpage soon.
 
-[[Click here to access the application form]](https://forms.gle/z6nKn7SPPPGhWFfQA)
-
-
-For more information: contact.isqcmc@gmail.com
+In the meantime, for more information: contact.isqcmc@gmail.com
 
 # Programme
 (To be confirmed)
