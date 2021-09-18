@@ -52,12 +52,12 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 09:00 - 9:50: **Welcome and Introduction to QuTune Project**
 - _Eduardo R. Miranda and Bob Coecke_ 
 
-#### Tutorial I (10:00 - 12:00)
+### Tutorial I (10:00 - 12:00)
 
 10:00 - 12:00: **Introduction to Quantum Computing for Musicians – Part 1**
 - _Omar Costa Hamido_ (University of Plymouth, UK)
 
-#### Research Papers Session I (13:00 – 15:00)
+### Research Papers Session I (13:00 – 15:00)
 
 13:00 – 13:30: **Conceptualizing Quantum Music**
 
@@ -91,7 +91,7 @@ Presenters:
 - _Bob Coecke_ (Cambridge Quantum, UK)
 
 
-#### Research Papers Session II (15:30 –  18:00)
+### Research Papers Session II (15:30 –  18:00)
 
 15:30 – 16:00: **Quantum Cellular Automata Music**
 
@@ -131,7 +131,7 @@ Presenters:
 Presenter:
 - _Scott Oshiro_ (Stanford University, USA)
 
-#### Musical Demonstrations (18:15 - 19:15)
+### Musical Demonstrations (18:15 - 19:15)
 
 18:15 – 19:15: **t.b.a.**
 
@@ -139,12 +139,12 @@ Presenter:
 
 #  DAY 2: 20 Nov 2021
 
-#### Tutorial II (09:00 - 11:00)
+### Tutorial II (09:00 - 11:00)
 
 09:00 - 11:00: **Introduction to Quantum Computing for Musicians – Part 2**
 - _Omar Costa Hamido_ (University of Plymouth, UK)
 
-#### Research Papers Session III (11:30 – 12:30)
+### Research Papers Session III (11:30 – 12:30)
 
 11:30 – 12:00: **Quantum Audio Representations**
 
@@ -161,7 +161,7 @@ Presenters:
 
 --
 
-#### Research Papers Session IV (13:00 - 14:30)
+### Research Papers Session IV (13:00 - 14:30)
 
 13:00 – 13:30: **Photonic Sound Synthesis**
 
@@ -186,20 +186,20 @@ Presenters:
 Presenter:
 - _Jake M. Chuharski_ (MIT, USA)
 
-#### QuTune Brainstorming Session (15:00 - 18:00)
+### QuTune Brainstorming Session (15:00 - 18:00)
 Working groups by invitation only
 
 15:00 – 18:00: **t.b.c.**
 
 
-#### Demonstration (18:15 – 19:15) 
+### Demonstration (18:15 – 19:15) 
 
 18:15 – 19:15: **Software - Quantum Music Playground**
 
 Presenter:
 - _James Weaver_ (IBM Quantum, USA)
 
-#### Announcements and Goodbye (19:15 - 19:45)
+### Announcements and Goodbye (19:15 - 19:45)
 
 19:15 - 19:45: **t.b.c.**
 - _Organising team_
