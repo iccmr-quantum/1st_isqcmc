@@ -198,6 +198,7 @@ Presenter:
 Presenter:
 - _James Weaver_ (IBM Quantum, USA)
 
-## Announcements and Goodbye
+## Announcements and Goodbye (19:15 - 19:45)
 
-19:15 - 19:45:
+19:15 - 19:45: **t.b.c.**
+- _Organising team_
