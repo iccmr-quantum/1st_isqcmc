@@ -60,30 +60,22 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 ### Research Papers Session I (13:00 – 15:00)
 
 13:00 – 13:30: **Conceptualizing Quantum Music**
-
-Presenter: 
 - _Karl Svozil_ (TU Wien, Austria)
  
 --
 
 13:30 – 14:00: **Composing with Quantum Walks and the Basak-Miranda Algorithm**
-
-Presenter:
 - _Suchitra Basak_ (University of Plymouth, UK)
 
 --
 
 14:00 – 14:30: **Quantum of Sound, the Sound of Quanta**
-
-Presenters:
 - _Maria Mannone_ (University of Palermo & Ca’ Foscari University of Venice, Italy)
 - _Davide Rocchesso_ (University of Palermo, Italy)
 
 --
 
 14:30 – 15:00: **Quantum Machine Learning of Music with Meaning**
-
-Presenters:
 - _Eduardo R. Miranda_ (University of Plymouth, UK)
 - _Richie Yeung_ (Cambridge Quantum, UK)
 - _Anna Pearson_ (Cambridge Quantum, UK)
@@ -94,15 +86,11 @@ Presenters:
 ### Research Papers Session II (15:30 –  18:00)
 
 15:30 – 16:00: **Quantum Cellular Automata Music**
-
-Presenter:
 - _Hector Miller-Bakewell_
 
 --
 
 16:00 – 16:30: **Playing Superconductive Qubits as Musical Synthesizers for Live Performance**
-
-Presenters:
 - _Spencer Topel_ (Yale Quantum Institute, USA)
 - _Luke Burkhart_ (Yale Quantum Institute & Keysight Technologies, USA)
 - _Kyle Serniak_ (Yale Quantum Institute & MIT Lincoln Laboratory, USA)
@@ -111,15 +99,11 @@ Presenters:
 --
 
 16:30 – 17:00: **Exploring the Application of Gate-type Quantum Computational Algorithm for Music Creation and Performance**
-
-Presenter:
 - _Satofumi Souma_ (Kobe University, Japan)
 
 --
 
 17:00 – 17:30: **Making Music Using Two Quantum Algorithms**
-
-Presenters:
 - _Euan J. Allen_ (University of Bristol, UK)
 - _Jacob F. F. Bulmer_ (University of Bristol, UK)
 - _Simon Small_
@@ -127,15 +111,12 @@ Presenters:
 --
 
 17:30 – 18:00: **QuiKo: Quantum Beat Generation**
-
-Presenter:
 - _Scott Oshiro_ (Stanford University, USA)
 
 ### Musical Demonstrations (18:15 - 19:15)
 
 18:15 – 19:15: **t.b.a.**
-
-- _Convener: Eduardo R. Miranda_ (University of Plymouth, UK)
+- Convener: _Eduardo R. Miranda_ (University of Plymouth, UK)
 
 #  DAY 2: 20 Nov 2021
 
@@ -147,15 +128,11 @@ Presenter:
 ### Research Papers Session III (11:30 – 12:30)
 
 11:30 – 12:00: **Quantum Audio Representations**
-
-Presenter:
 - _Paulo Itaboraí_ (University of Plymouth, UK)
 
 --
 
 12:00 – 12:30: **Quantum Frequency Detector for Audio Files**
-
-Presenters:
 - _Rajiv Mistry_ (Pivotport, USA)
 - _Jonathan Ortega_ (Purdue University, USA)
 
@@ -164,8 +141,6 @@ Presenters:
 ### Research Papers Session IV (13:00 - 14:30)
 
 13:00 – 13:30: **Photonic Sound Synthesis**
-
-Presenters:
 - _Eduardo R. Miranda_ (University of Plymouth, UK)
 - _Paul Finlay_ (Xanadu, Toronto, Canada)
 - _Tom Lubowe_ (Xanadu, Toronto, Canada)
@@ -173,8 +148,6 @@ Presenters:
 --
 
 13:30 – 14:00: **Applications of Quantum Annealing to Music Theory**
-
-Presenters:
 - _Ashish Arya_ (QWorld Organization)
 - _Ludmila Botelho_ (Polish Academy of Sciences & Silesian University of Technology, Poland)
 - _Fabiola Cañete__ (Benemérita Universidad Autónoma de Puebla, Mexico)
@@ -183,7 +156,6 @@ Presenters:
 
 14:00 – 14:30: **Quantum Adiabatic Computing and Applications to Music**
 
-Presenter:
 - _Jake M. Chuharski_ (MIT, USA)
 
 ### QuTune Brainstorming Session (15:00 - 18:00)
@@ -195,8 +167,6 @@ Working groups by invitation only
 ### Demonstration (18:15 – 19:15) 
 
 18:15 – 19:15: **Software - Quantum Music Playground**
-
-Presenter:
 - _James Weaver_ (IBM Quantum, USA)
 
 ### Announcements and Goodbye (19:15 - 19:45)
