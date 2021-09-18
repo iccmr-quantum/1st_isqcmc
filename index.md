@@ -13,9 +13,9 @@ There is a long history of research into using computers for music since the 195
 
 This first-ever quantum computer music symposium focuses on quantum computing for musical creativity. It takes place in the context of the [QuTune Project](https://iccmr-quantum.github.io/), and is organised by [University of Plymouth's ICCMR](http://cmr.soc.plymouth.ac.uk/) in collaboration with [Cambridge Quantum Computing](https://cambridgequantum.com/) and [IBM Quantum](https://www.ibm.com/quantum-computing/). In addition to creating resources for quantum computer music, QuTune is aimed at fostering a quantum-ready music tech community of early adopters.
 
-The envisaged programme comprises talks about the resources being developed by the QuTune team and works by invited presenters. It offers a hands-on introduction to programming quantum computers for musicians and practical demonstrations. We welcome proposals for presentations (see [How to participate](#how-to-participate) below).
+The programme comprises talks about the resources being developed by the QuTune team, invited presenters and presentations submitted by the research community. It offers a hands-on introduction to programming quantum computers for musicians and enthusiasts, and practical demonstrations. We welcome proposals for presentations (see [How to participate](#how-to-participate) below).
 
-The symposium will take place online and attendance is free of charge. Places are limited, registration is required. Registration information will be posted here in due time. Please watch this space. 
+The symposium will take place online and attendance is free of charge. Places are limited, __registration is required__. Registration information will be posted here in due time. Please watch this space. 
 
 # Organising Team
 - Eduardo R. Miranda (ICCMR, University of Plymouth, UK)
@@ -39,7 +39,7 @@ To express your interest in participating, please fill in the form (link to acce
 
 We are very keen to welcome those who already have been working with quantum computer music to present their work. If you wish to present, then please let us know. There is space on the form to briefly describe the work that you would like to present. Should you qualify for a presentation, then we will send you instructions for writing a short paper. We are planning to publish a selection of papers as a special issue of _Contemporary Music Journal_.
 
-#### NOTE: The deadline to submit papers for presentation expired on 03 September 2021. If wou just want to watch the presentations and tutorial, don't panic! Instructions for registering to watch the presentations and tutorial will be posted on this webpage soon.
+__NOTE: The deadline to submit papers for presentation expired on 03 September 2021. If wou just want to watch the presentations and tutorial, don't panic! Instructions for registering to watch the presentations and tutorial will be posted on this webpage soon.__
 
 In the meantime, for more information: contact.isqcmc@gmail.com
 
@@ -60,9 +60,35 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 - **Introduction to Quantum Computing for Musicians – Part 1**
 - _Omar Costa Hamido_
 
-### Research Papers Session I
+### Research Papers Session I (13:00 – 15:00)
 
-13:00 – 15:00 
+13:00 – 13:30:
+##### Conceptualizing Quantum Music 
+Presenter: 
+Karl Svozil (TU Wien, Austria)
+  
+13:30 – 14:00:
+##### Composing with Quantum Walks and the Basak-Miranda Algorithm
+Presenter:
+Suchitra Basak (University of Plymouth, UK)
+
+14:00 – 14:30:
+##### Quantum of Sound, the Sound of Quanta
+Presenters:
+Maria Mannone (University of Palermo & Ca’ Foscari University of Venice, Italy)
+Davide Rocchesso (University of Palermo, Italy)
+
+14:30 – 15:00:
+##### Quantum Machine Learning of Music with Meaning
+Presenters:
+Eduardo Miranda (University of Plymouth, UK)
+Anna Pearson (Cambridge Quantum, UK)
+Richie Yeung (Cambridge Quantum, UK)
+Konstantinos Meichanetzidis (Cambridge Quantum, UK)
+Bob Coecke (Cambridge Quantum, UK)
+
+![image](https://user-images.githubusercontent.com/46610354/133882782-4d0156de-58ee-46ec-b68f-466be1afedb8.png)
+
 
 ### Research Papers Session II
 
