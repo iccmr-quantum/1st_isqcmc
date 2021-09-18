@@ -191,9 +191,9 @@ Presenter:
 
 15:00 – 18:00: **t.b.c.**
 
-## Demonstration
+## Demonstration (18:15 – 19:15) 
 
-18:15 – 19:15: **Quantum Music Playground**
+18:15 – 19:15: **Software - Quantum Music Playground**
 
 Presenter:
 - _James Weaver_ (IBM Quantum, USA)
