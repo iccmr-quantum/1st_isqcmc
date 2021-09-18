@@ -186,10 +186,11 @@ Presenters:
 Presenter:
 - _Jake M. Chuharski_ (MIT, USA)
 
-### QuTune Brainstorming Session
-Working groups by invitation only (15:00 - 18:00)
+### QuTune Brainstorming Session (15:00 - 18:00)
+Working groups by invitation only
 
 15:00 – 18:00: **t.b.c.**
+
 
 ### Demonstration (18:15 – 19:15) 
 
