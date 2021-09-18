@@ -58,36 +58,34 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 
 10:00 - 12:00:
 - **Introduction to Quantum Computing for Musicians – Part 1**
-- _Omar Costa Hamido_
+- _Omar Costa Hamido_ (University of Plymouth, UK)
 
 ### Research Papers Session I (13:00 – 15:00)
 
 13:00 – 13:30:
 ##### Conceptualizing Quantum Music 
 Presenter: 
-Karl Svozil (TU Wien, Austria)
+_Karl Svozil_ (TU Wien, Austria)
   
 13:30 – 14:00:
 ##### Composing with Quantum Walks and the Basak-Miranda Algorithm
 Presenter:
-Suchitra Basak (University of Plymouth, UK)
+_Suchitra Basak_ (University of Plymouth, UK)
 
 14:00 – 14:30:
 ##### Quantum of Sound, the Sound of Quanta
 Presenters:
-Maria Mannone (University of Palermo & Ca’ Foscari University of Venice, Italy)
-Davide Rocchesso (University of Palermo, Italy)
+_Maria Mannone_ (University of Palermo & Ca’ Foscari University of Venice, Italy)
+_Davide Rocchesso_ (University of Palermo, Italy)
 
 14:30 – 15:00:
 ##### Quantum Machine Learning of Music with Meaning
 Presenters:
-Eduardo Miranda (University of Plymouth, UK)
-Anna Pearson (Cambridge Quantum, UK)
-Richie Yeung (Cambridge Quantum, UK)
-Konstantinos Meichanetzidis (Cambridge Quantum, UK)
-Bob Coecke (Cambridge Quantum, UK)
-
-![image](https://user-images.githubusercontent.com/46610354/133882782-4d0156de-58ee-46ec-b68f-466be1afedb8.png)
+_Eduardo Miranda_ (University of Plymouth, UK)
+_Richie Yeung_ (Cambridge Quantum, UK)
+_Anna Pearson_ (Cambridge Quantum, UK)
+_Konstantinos Meichanetzidis_ (Cambridge Quantum, UK)
+_Bob Coecke_ (Cambridge Quantum, UK)
 
 
 ### Research Papers Session II
