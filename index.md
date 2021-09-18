@@ -116,6 +116,7 @@ Presenter:
 - _Satofumi Souma_ (Kobe University, Japan)
 
 --
+
 17:00 – 17:30: **Making Music Using Two Quantum Algorithms**
 
 Presenters:
