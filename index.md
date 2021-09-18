@@ -44,7 +44,6 @@ __NOTE: The deadline to submit papers for presentation expired on 03 September 2
 In the meantime, for more information: contact.isqcmc@gmail.com
 
 # Programme
-(To be confirmed)
 
 Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](https://www.inyourowntime.zone/2021-11-19_09.00_Europe.London))
 
@@ -64,7 +63,8 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 
 Presenter: 
 - _Karl Svozil_ (TU Wien, Austria)
-  
+ 
+--------
 
 13:30 – 14:00: **Composing with Quantum Walks and the Basak-Miranda Algorithm**
 
