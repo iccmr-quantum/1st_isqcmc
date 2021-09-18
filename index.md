@@ -141,8 +141,7 @@ Presenter:
 
 ## Tutorial II (09:00 - 11:00)
 
-09:00 - 11:00:
-- **Introduction to Quantum Computing for Musicians – Part 2**
+09:00 - 11:00: **Introduction to Quantum Computing for Musicians – Part 2**
 - _Omar Costa Hamido_ (University of Plymouth, UK)
 
 ## Research Papers Session III (11:30 – 12:30)
