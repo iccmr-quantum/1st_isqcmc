@@ -85,7 +85,6 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 15:30 – 16:00: **Quantum Cellular Automata Music**
 - _Hector Miller-Bakewell_
 
---
 
 16:00 – 16:30: **Playing Superconductive Qubits as Musical Synthesizers for Live Performance**
 - _Spencer Topel_ (Yale Quantum Institute, USA)
@@ -93,19 +92,16 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 - _Kyle Serniak_ (Yale Quantum Institute & MIT Lincoln Laboratory, USA)
 - _Florian Carle_ (Yale Quantum Institute, USA)
 
---
 
 16:30 – 17:00: **Exploring the Application of Gate-type Quantum Computational Algorithm for Music Creation and Performance**
 - _Satofumi Souma_ (Kobe University, Japan)
 
---
 
 17:00 – 17:30: **Making Music Using Two Quantum Algorithms**
 - _Euan J. Allen_ (University of Bristol, UK)
 - _Jacob F. F. Bulmer_ (University of Bristol, UK)
 - _Simon Small_
 
---
 
 17:30 – 18:00: **QuiKo: Quantum Beat Generation**
 - _Scott Oshiro_ (Stanford University, USA)
@@ -127,13 +123,11 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 11:30 – 12:00: **Quantum Audio Representations**
 - _Paulo Itaboraí_ (University of Plymouth, UK)
 
---
 
 12:00 – 12:30: **Quantum Frequency Detector for Audio Files**
 - _Rajiv Mistry_ (Pivotport, USA)
 - _Jonathan Ortega_ (Purdue University, USA)
 
---
 
 ### Research Papers Session IV (13:00 - 14:30)
 
@@ -142,18 +136,17 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 - _Paul Finlay_ (Xanadu, Toronto, Canada)
 - _Tom Lubowe_ (Xanadu, Toronto, Canada)
 
---
 
 13:30 – 14:00: **Applications of Quantum Annealing to Music Theory**
 - _Ashish Arya_ (QWorld Organization)
 - _Ludmila Botelho_ (Polish Academy of Sciences & Silesian University of Technology, Poland)
 - _Fabiola Cañete__ (Benemérita Universidad Autónoma de Puebla, Mexico)
 
---
 
 14:00 – 14:30: **Quantum Adiabatic Computing and Applications to Music**
 
 - _Jake M. Chuharski_ (MIT, USA)
+
 
 ### QuTune Brainstorming Session (15:00 - 18:00)
 Working groups by invitation only
