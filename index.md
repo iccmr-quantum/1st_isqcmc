@@ -110,7 +110,7 @@ Presenters:
 
 --
 
-16:30 – 17:00 **Exploring the Application of Gate-type Quantum Computational Algorithm for Music Creation and Performance**
+16:30 – 17:00: **Exploring the Application of Gate-type Quantum Computational Algorithm for Music Creation and Performance**
 
 Presenter:
 - _Satofumi Souma_ (Kobe University, Japan)
