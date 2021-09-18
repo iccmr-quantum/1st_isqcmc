@@ -71,6 +71,7 @@ Presenter:
 Presenter:
 - _Suchitra Basak_ (University of Plymouth, UK)
 
+--
 
 14:00 – 14:30: **Quantum of Sound, the Sound of Quanta**
 
@@ -78,6 +79,7 @@ Presenters:
 - _Maria Mannone_ (University of Palermo & Ca’ Foscari University of Venice, Italy)
 - _Davide Rocchesso_ (University of Palermo, Italy)
 
+--
 
 14:30 – 15:00: **Quantum Machine Learning of Music with Meaning**
 
@@ -89,9 +91,44 @@ Presenters:
 - _Bob Coecke_ (Cambridge Quantum, UK)
 
 
-## Research Papers Session II
+## Research Papers Session II (15:30 –  18:00)
 
-15:30 - 18:00: 
+15:30 – 16:00: **Quantum Cellular Automata Music**
+
+Presenter:
+- _Hector Miller-Bakewell_
+
+--
+
+16:00 – 16:30: **Playing Superconductive Qubits as Musical Synthesizers for Live Performance**
+
+Presenters:
+- _Spencer Topel_ (Yale Quantum Institute, USA)
+- _Luke Burkhart_ (Yale Quantum Institute & Keysight Technologies, USA)
+- _Kyle Serniak_ (Yale Quantum Institute & MIT Lincoln Laboratory, USA)
+- _Florian Carle_ (Yale Quantum Institute, USA)
+
+--
+
+16:30 – 17:00 **Exploring the Application of Gate-type Quantum Computational Algorithm for Music Creation and Performance**
+
+Presenter:
+- _Satofumi Souma_ (Kobe University, Japan)
+
+--
+17:00 – 17:30: **Making Music Using Two Quantum Algorithms**
+
+Presenters:
+- _ Euan J. Allen_ (University of Bristol, UK)
+- _Jacob F. F. Bulmer_ (University of Bristol, UK)
+- _Simon Small_
+
+--
+
+17:30 – 18:00: **QuiKo: Quantum Beat Generation**
+
+Presenter:
+- _Scott Oshiro_ (Stanford University, USA)
 
 ## Musical Demonstrations
 
@@ -106,15 +143,47 @@ Presenters:
 
 09:00 - 11:00:
 - **Introduction to Quantum Computing for Musicians – Part 2**
-- _Omar Costa Hamido_
+- _Omar Costa Hamido_ (University of Plymouth, UK)
 
-## Research Papers Session III
+## Research Papers Session III (11:30 – 12:30)
 
-11:30 – 12:30: 
+11:30 – 12:00: **Quantum Audio Representations**
 
-## Research Papers Session IV
+Presenter:
+- _Paulo Itaboraí_ (University of Plymouth, UK)
 
-13:00 - 14:30:
+--
+
+12:00 – 12:30: **Quantum Frequency Detector for Audio Files**
+
+Presenters:
+- _Rajiv Mistry_ (Pivotport, USA)
+- _Jonathan Ortega_ (Purdue University, USA)
+
+--
+
+## Research Papers Session IV (13:00 - 14:30)
+
+13:00 – 13:30: **Photonic Sound Synthesis**
+
+Presenters:
+_ _Eduardo Miranda_ (University of Plymouth, UK)
+- _Paul Finlay_ (Xanadu, Toronto, Canada)
+- _Tom Lubowe_ (Xanadu, Toronto, Canada)
+
+--
+
+13:30 – 14:00: **Applications of Quantum Annealing to Music Theory**
+
+Presenters:
+- __Ashish Arya__ (QWorld Organization)
+- __Ludmila Botelho__ (Polish Academy of Sciences & Silesian University of Technology, Poland)
+- __Fabiola Cañete__ (Benemérita Universidad Autónoma de Puebla, Mexico)
+
+14:00 – 14:30: **Quantum Adiabatic Computing and Applications to Music**
+
+Presenter:
+- __Jake M. Chuharski__ (MIT, USA)
 
 ## Focused Brainstorming Sessions (By invitation only)
 
