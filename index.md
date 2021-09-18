@@ -64,7 +64,7 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 Presenter: 
 - _Karl Svozil_ (TU Wien, Austria)
  
---------
+--
 
 13:30 – 14:00: **Composing with Quantum Walks and the Basak-Miranda Algorithm**
 
