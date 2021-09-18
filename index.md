@@ -131,9 +131,9 @@ Presenters:
 Presenter:
 - _Scott Oshiro_ (Stanford University, USA)
 
-## Musical Demonstrations
+## Musical Demonstrations (18:15 - 19:15)
 
-18:15 – 19:15: **Examples of Compositions**
+18:15 – 19:15: **t.b.a.**
 
 - _Convener: Eduardo R. Miranda_ (University of Plymouth, UK)
 
