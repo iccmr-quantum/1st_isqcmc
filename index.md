@@ -52,7 +52,7 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 09:00 - 9:50: **Welcome and Introduction to QuTune Project**
 - _Eduardo R. Miranda and Bob Coecke_ 
 
-## Tutorial I
+## Tutorial I (10:00 - 12:00)
 
 10:00 - 12:00: **Introduction to Quantum Computing for Musicians – Part 1**
 - _Omar Costa Hamido_ (University of Plymouth, UK)
@@ -139,7 +139,7 @@ Presenter:
 
 #  DAY 2: 20 Nov 2021
 
-## Tutorial II
+## Tutorial II (09:00 - 11:00)
 
 09:00 - 11:00:
 - **Introduction to Quantum Computing for Musicians – Part 2**
