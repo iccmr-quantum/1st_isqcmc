@@ -140,7 +140,7 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 13:30 – 14:00: **Applications of Quantum Annealing to Music Theory**
 - _Ashish Arya_ (QWorld Organization)
 - _Ludmila Botelho_ (Polish Academy of Sciences & Silesian University of Technology, Poland)
-- _Fabiola Cañete__ (Benemérita Universidad Autónoma de Puebla, Mexico)
+- _Fabiola Cañete_ (Benemérita Universidad Autónoma de Puebla, Mexico)
 
 
 14:00 – 14:30: **Quantum Adiabatic Computing and Applications to Music**
