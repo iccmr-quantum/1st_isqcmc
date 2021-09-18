@@ -179,10 +179,13 @@ Presenters:
 - _Ashish Arya_ (QWorld Organization)
 - _Ludmila Botelho_ (Polish Academy of Sciences & Silesian University of Technology, Poland)
 - _Fabiola Cañete__ (Benemérita Universidad Autónoma de Puebla, Mexico)
+
+--
+
 14:00 – 14:30: **Quantum Adiabatic Computing and Applications to Music**
 
 Presenter:
-- __Jake M. Chuharski__ (MIT, USA)
+- _Jake M. Chuharski_ (MIT, USA)
 
 ## Focused Brainstorming Sessions (By invitation only)
 
