@@ -50,7 +50,7 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 # DAY 1: 19 Nov 2021 
 
 09:00 - 9:50: **Welcome and Introduction to QuTune Project**
-- _Eduardo R Miranda and Bob Coecke_ 
+- _Eduardo R. Miranda and Bob Coecke_ 
 
 ## Tutorial I
 
@@ -84,7 +84,7 @@ Presenters:
 14:30 – 15:00: **Quantum Machine Learning of Music with Meaning**
 
 Presenters:
-- _Eduardo Miranda_ (University of Plymouth, UK)
+- _Eduardo R. Miranda_ (University of Plymouth, UK)
 - _Richie Yeung_ (Cambridge Quantum, UK)
 - _Anna Pearson_ (Cambridge Quantum, UK)
 - _Konstantinos Meichanetzidis_ (Cambridge Quantum, UK)
@@ -119,7 +119,7 @@ Presenter:
 17:00 – 17:30: **Making Music Using Two Quantum Algorithms**
 
 Presenters:
-- _ Euan J. Allen_ (University of Bristol, UK)
+- _Euan J. Allen_ (University of Bristol, UK)
 - _Jacob F. F. Bulmer_ (University of Bristol, UK)
 - _Simon Small_
 
@@ -134,7 +134,7 @@ Presenter:
 
 18:15 – 19:15: 
 
-- **Examples of Compositions**
+**Examples of Compositions**
 - _Convener: Eduardo R. Miranda_
 
 #  DAY 2: 20 Nov 2021
@@ -167,7 +167,7 @@ Presenters:
 13:00 – 13:30: **Photonic Sound Synthesis**
 
 Presenters:
-_ _Eduardo Miranda_ (University of Plymouth, UK)
+- _Eduardo R. Miranda_ (University of Plymouth, UK)
 - _Paul Finlay_ (Xanadu, Toronto, Canada)
 - _Tom Lubowe_ (Xanadu, Toronto, Canada)
 
@@ -176,10 +176,9 @@ _ _Eduardo Miranda_ (University of Plymouth, UK)
 13:30 – 14:00: **Applications of Quantum Annealing to Music Theory**
 
 Presenters:
-- __Ashish Arya__ (QWorld Organization)
-- __Ludmila Botelho__ (Polish Academy of Sciences & Silesian University of Technology, Poland)
-- __Fabiola Cañete__ (Benemérita Universidad Autónoma de Puebla, Mexico)
-
+- _Ashish Arya_ (QWorld Organization)
+- _Ludmila Botelho_ (Polish Academy of Sciences & Silesian University of Technology, Poland)
+- _Fabiola Cañete__ (Benemérita Universidad Autónoma de Puebla, Mexico)
 14:00 – 14:30: **Quantum Adiabatic Computing and Applications to Music**
 
 Presenter:
