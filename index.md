@@ -133,10 +133,9 @@ Presenter:
 
 ## Musical Demonstrations
 
-18:15 – 19:15: 
+18:15 – 19:15: **Examples of Compositions**
 
-**Examples of Compositions**
-- _Convener: Eduardo R. Miranda_
+- _Convener: Eduardo R. Miranda_ (University of Plymouth, UK)
 
 #  DAY 2: 20 Nov 2021
 
@@ -190,13 +189,13 @@ Presenter:
 
 ## Focused Brainstorming Sessions (By invitation only)
 
-15:00 – 18:00: 
+15:00 – 18:00: t.b.c.
 
 ## Demonstration
 
-18:15 – 19:15: 
+18:15 – 19:15: **Quantum Music Playground**
 
-- **Quantum Music Playground**
+Presenter:
 - _James Weaver_ (IBM Quantum, USA)
 
 ## Announcements and Goodbye
