@@ -50,36 +50,30 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 
 # DAY 1: 19 Nov 2021 
 
-09:00 - 9:50:
-- **Welcome and Introduction to QuTune Project**
+09:00 - 9:50: **Welcome and Introduction to QuTune Project**
 - _Eduardo R Miranda and Bob Coecke_ 
 
-### Tutorial I
+## Tutorial I
 
-10:00 - 12:00:
-- **Introduction to Quantum Computing for Musicians – Part 1**
+10:00 - 12:00: **Introduction to Quantum Computing for Musicians – Part 1**
 - _Omar Costa Hamido_ (University of Plymouth, UK)
 
-### Research Papers Session I (13:00 – 15:00)
+## Research Papers Session I (13:00 – 15:00)
 
-13:00 – 13:30:
-### Conceptualizing Quantum Music 
+13:00 – 13:30: **Conceptualizing Quantum Music**
 Presenter: 
 _Karl Svozil_ (TU Wien, Austria)
   
-13:30 – 14:00:
-### Composing with Quantum Walks and the Basak-Miranda Algorithm
+13:30 – 14:00: **Composing with Quantum Walks and the Basak-Miranda Algorithm**
 Presenter:
 _Suchitra Basak_ (University of Plymouth, UK)
 
-14:00 – 14:30:
-### Quantum of Sound, the Sound of Quanta
+14:00 – 14:30: **Quantum of Sound, the Sound of Quanta**
 Presenters:
 _Maria Mannone_ (University of Palermo & Ca’ Foscari University of Venice, Italy)
 _Davide Rocchesso_ (University of Palermo, Italy)
 
-14:30 – 15:00:
-### Quantum Machine Learning of Music with Meaning
+14:30 – 15:00: **Quantum Machine Learning of Music with Meaning**
 Presenters:
 _Eduardo Miranda_ (University of Plymouth, UK)
 _Richie Yeung_ (Cambridge Quantum, UK)
@@ -88,11 +82,11 @@ _Konstantinos Meichanetzidis_ (Cambridge Quantum, UK)
 _Bob Coecke_ (Cambridge Quantum, UK)
 
 
-### Research Papers Session II
+## Research Papers Session II
 
 15:30 - 18:00: 
 
-### Musical Demonstrations
+## Musical Demonstrations
 
 18:15 – 19:15: 
 
@@ -101,31 +95,31 @@ _Bob Coecke_ (Cambridge Quantum, UK)
 
 #  DAY 2: 20 Nov 2021
 
-### Tutorial II
+## Tutorial II
 
 09:00 - 11:00:
 - **Introduction to Quantum Computing for Musicians – Part 2**
 - _Omar Costa Hamido_
 
-### Research Papers Session III
+## Research Papers Session III
 
 11:30 – 12:30: 
 
-### Research Papers Session IV
+## Research Papers Session IV
 
 13:00 - 14:30:
 
-### Focused Brainstorming Sessions (By invitation only)
+## Focused Brainstorming Sessions (By invitation only)
 
 15:00 – 18:00: 
 
-### Demonstration
+## Demonstration
 
 18:15 – 19:15: 
 
 - **Quantum Music Playground**
 - _James Weaver_ (IBM Quantum, USA)
 
-### Announcements and Goodbye
+## Announcements and Goodbye
 
 19:15 - 19:45:
