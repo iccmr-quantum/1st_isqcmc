@@ -113,7 +113,7 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 
 #  DAY 2: 20 Nov 2021
 
-### Tutorial II (09:00 - 11:00)
+### Tutorial II (09:00 - 10:30)
 
 09:00 - 10:30: **Introduction to Quantum Computing for Musicians – Part 2**
 - _Omar Costa Hamido_ (University of Plymouth, UK)
