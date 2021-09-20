@@ -156,12 +156,12 @@ Working groups by invitation only
 15:00 – 18:00: **t.b.c.**
 
 
-### Demonstration (18:15 – 19:15) 
+### Demonstration (18:30 – 19:30) 
 
 18:15 – 19:15: **Software - Quantum Music Playground**
 - _James Weaver_ (IBM Quantum, USA)
 
-### Announcements and Goodbye (19:15 - 19:45)
+### Announcements and Goodbye (19:30 - 19:45)
 
 19:15 - 19:45: **t.b.c.**
 - _Organising team_
