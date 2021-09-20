@@ -115,10 +115,10 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 
 ### Tutorial II (09:00 - 11:00)
 
-09:00 - 11:00: **Introduction to Quantum Computing for Musicians – Part 2**
+09:00 - 10:30: **Introduction to Quantum Computing for Musicians – Part 2**
 - _Omar Costa Hamido_ (University of Plymouth, UK)
 
-### Research Papers Session III (11:30 – 12:30)
+### Research Papers Session III (11:00 – 12:00)
 
 11:30 – 12:00: **Quantum Audio Representations**
 - _Paulo Itaboraí_ (University of Plymouth, UK)
