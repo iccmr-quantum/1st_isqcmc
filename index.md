@@ -39,7 +39,7 @@ To express your interest in participating, please fill in the form (link to acce
 
 We are very keen to welcome those who already have been working with quantum computer music to present their work. If you wish to present, then please let us know. There is space on the form to briefly describe the work that you would like to present. Should you qualify for a presentation, then we will send you instructions for writing a short paper. We are planning to publish a selection of papers as a special issue of _Contemporary Music Journal_.
 
-__NOTE: The deadline to submit papers for presentation expired on 03 September 2021. If wou just want to watch the presentations and tutorial, don't panic! Instructions for registering to watch the presentations and tutorial will be posted on this webpage soon.__
+__NOTE: The deadline to submit papers for presentation expired on 03 September 2021. If you just want to watch the presentations and tutorial, don't panic! Instructions for registering to watch the presentations and tutorial will be posted on this webpage soon.__
 
 In the meantime, for more information: contact.isqcmc@gmail.com
 
