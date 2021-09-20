@@ -106,9 +106,9 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 17:30 – 18:00: **QuiKo: Quantum Beat Generation**
 - _Scott Oshiro_ (Stanford University, USA)
 
-### Musical Demonstrations (18:15 - 19:15)
+### Musical Demonstrations (18:30 - 19:30)
 
-18:15 – 19:15: **t.b.a.**
+18:30 – 19:30: **t.b.a.**
 - Convener: _Eduardo R. Miranda_ (University of Plymouth, UK)
 
 #  DAY 2: 20 Nov 2021
