@@ -120,11 +120,11 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 
 ### Research Papers Session III (11:00 – 12:00)
 
-11:30 – 12:00: **Quantum Audio Representations**
+11:00 – 11:30: **Quantum Audio Representations**
 - _Paulo Itaboraí_ (University of Plymouth, UK)
 
 
-12:00 – 12:30: **Quantum Frequency Detector for Audio Files**
+11:30 – 12:00: **Quantum Frequency Detector for Audio Files**
 - _Rajiv Mistry_ (Pivotport, USA)
 - _Jonathan Ortega_ (Purdue University, USA)
 
