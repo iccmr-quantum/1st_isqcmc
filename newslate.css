@@ -37,6 +37,7 @@ html {
   padding: 1em;
   letter-spacing: 1px;
   line-height: 1;
+  font-size: 36px;
 }
 
 .blob {
@@ -154,7 +155,7 @@ input[type=button] {
 
 /*adapted from github template*/
 body {
-  
+
 }
 /*section {
   box-sizing: border-box;
