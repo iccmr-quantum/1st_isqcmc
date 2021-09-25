@@ -1,4 +1,4 @@
-![img](./img.png)
+
 
 
 ## Fri 19 and Sat 20 November, 2021 
@@ -165,3 +165,6 @@ Working groups by invitation only
 
 19:15 - 19:45: **t.b.c.**
 - _Organising team_
+
+<!-- ![img](./img.png) -->
+<p style="text-align: center;"><a href="https://iccmr-quantum.github.io/"><img src="./img.png" alt="img" height="150px"></a></p>
