@@ -1,8 +1,8 @@
 
 
-
-## Fri 19 and Sat 20 November, 2021 
-## Online Event
+<br>
+<!-- ## Fri 19 and Sat 20 November, 2021  -->
+## _Online Event_
 
 # Introduction
 ### 1st International Symposium on Quantum Computing and Musical Creativity
