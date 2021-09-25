@@ -168,3 +168,17 @@ Working groups by invitation only
 
 <!-- ![img](./img.png) -->
 <p style="text-align: center;"><a href="https://iccmr-quantum.github.io/"><img src="./img.png" alt="img" height="150px"></a></p>
+
+# Registration
+<script src="./GoogleFormStyler.js"
+  form="https://docs.google.com/forms/d/e/1FAIpQLSesTDWOj083KvxhPJN9ocgijGE7HNvb6pTP-rnI6gC8bhgCHQ/viewform?embedded=true">
+  // var myobj = document.getElementsByClassName("freebirdFormviewerViewNavigationPasswordWarning");
+  // myobj.remove();
+</script>
+<style type="text/css">
+  /* needs to be done after the loading of the form... */
+  .freebirdFormviewerViewNavigationSubmitButton {
+    margin-left: auto; 
+    margin-right: auto; 
+  }
+</style>
