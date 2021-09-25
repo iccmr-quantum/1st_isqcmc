@@ -22,6 +22,7 @@ html {
   width: 12em;
   height: 10em;
   background-color: #ddd;
+  font-size: 36px; 
 }
 
 .text {
@@ -269,6 +270,7 @@ ul {
 @media screen and (max-width: 480px) {
   .back, .text {
     left: -6em;
+    font-size: 30px;
   }
   html {
     font-size: 30px;
@@ -320,6 +322,7 @@ ul {
 @media screen and (max-width: 320px) {
   .back, .text {
     left: -6em;
+    font-size: 30px;
   }
   html {
     font-size: 30px;
