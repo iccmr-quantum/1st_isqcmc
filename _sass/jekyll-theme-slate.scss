@@ -5,7 +5,7 @@ MeyerWeb Reset
 *******************************************************************************/
 
 html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+.inner h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
@@ -407,7 +407,7 @@ Small Device Styles
   font-size: 32px;
   }
 
-  h1 {
+  .inner h1 {
     font-size: 28px;
   }
 
@@ -455,7 +455,7 @@ Small Device Styles
   font-size: 28px;
   }
 
-  h1 {
+  .inner h1 {
     font-size: 24px;
   }
 
