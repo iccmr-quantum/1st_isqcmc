@@ -172,8 +172,6 @@ Working groups by invitation only
 # Registration
 <script src="./GoogleFormStyler.js"
   form="https://docs.google.com/forms/d/e/1FAIpQLSesTDWOj083KvxhPJN9ocgijGE7HNvb6pTP-rnI6gC8bhgCHQ/viewform?embedded=true">
-  // var myobj = document.getElementsByClassName("freebirdFormviewerViewNavigationPasswordWarning");
-  // myobj.remove();
 </script>
 <style type="text/css">
   /* needs to be done after the loading of the form... */
@@ -182,3 +180,18 @@ Working groups by invitation only
     margin-right: auto; 
   }
 </style>
+<!-- intercept button click, not very good because it is before form submission -->
+<script type="text/javascript">
+  var ifrm = document.createElement("iframe");
+  ifrm.setAttribute("name", "swallow");
+  document.body.appendChild(ifrm);
+  ifrm.style.display = 'none';
+  document.forms[0].target="swallow";
+  var button = document.querySelectorAll("div[role='button']")[0];
+  button.addEventListener("click", function()
+  {
+    // alert('Here you can intercept the response');
+    // https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs/blob/main/services/google.md
+    document.getElementsByClassName("freebirdFormviewerViewFormContentWrapper").innerHTML = "We have received your Application for the 1st International Symposium on quantum Computing and Musical Creativity.<br><br>(add to <a href='https://calendar.google.com/calendar/u/0/r/eventedit?dates=20211119T090000Z/20211119T194500Z&recur=RRULE:FREQ=DAILY;COUNT=2&text=ISQCMC&details=1st+International+Symposium+on+Quantum+Computing+and+Musical+Creativity%0A&location=https%3A%2F%2Ficcmr-quantum.github.io%2F1st_isqcmc%2F'>Google Calendar</a> or <a href='https://outlook.office.com/calendar/0/deeplink/compose?path=/calendar/action/compose&rru=addevent&startdt=2021-11-19Z&enddt=2021-11-20Z&recur=RRULE:FREQ=DAILY;COUNT=3&subject=ISQCMC&body=1st+International+Symposium+on+Quantum+Computing+and+Musical+Creativity:+https%3A%2F%2Ficcmr-quantum.github.io%2F1st_isqcmc%2F&location=Online'>Outlook 365</a>)";
+  }, true); 
+</script>
