@@ -13,7 +13,7 @@ There is a long history of research into using computers for music since the 195
 
 This first-ever quantum computer music symposium focuses on quantum computing for musical creativity. It takes place in the context of the [QuTune Project](https://iccmr-quantum.github.io/), and is organised by [University of Plymouth's ICCMR](http://cmr.soc.plymouth.ac.uk/) in collaboration with [Cambridge Quantum Computing](https://cambridgequantum.com/) and [IBM Quantum](https://www.ibm.com/quantum-computing/). In addition to creating resources for quantum computer music, QuTune is aimed at fostering a quantum-ready music tech community of early adopters.
 
-The programme comprises talks about the resources being developed by the QuTune team, invited presenters and presentations submitted by the research community. It offers a hands-on introduction to programming quantum computers for musicians and enthusiasts, and practical demonstrations. We welcome proposals for presentations (see [How to participate](#how-to-participate) below).
+The programme comprises talks about the resources being developed by the QuTune team, invited presenters and presentations submitted by the research community. It offers a hands-on introduction to programming quantum computers for musicians and enthusiasts, and practical demonstrations. We welcome proposals for presentations (see <a target="_self" href="#how-to-participate">How to participate</a> below).
 
 The symposium will take place online and attendance is free of charge. Places are limited, __registration is required__. Registration form is <a target="_self" href="#registration">below</a>.
 
@@ -37,7 +37,7 @@ A background in computer music and/or music technology is recommended in order t
 
 We are very keen to welcome those who already have been working with quantum computer music to present their work. We are planning to publish a selection of papers as a special issue of _Contemporary Music Journal_.
 
-__NOTE: The deadline to submit papers for presentation expired on 03 September 2021. If you just want to watch the presentations and tutorial, don't panic! The registration form to watch the presentations and tutorial is posted [at the bottom](#registration) of this webpage.__
+__NOTE: The deadline to submit papers for presentation expired on 03 September 2021. If you just want to watch the presentations and tutorial, don't panic! The registration form to watch the presentations and tutorial is posted <a target="_self" href="#registration">at the bottom</a> of this webpage.__
 
 In the meantime, for more information: contact.isqcmc@gmail.com
 
