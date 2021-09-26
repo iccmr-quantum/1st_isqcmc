@@ -15,7 +15,7 @@ This first-ever quantum computer music symposium focuses on quantum computing fo
 
 The programme comprises talks about the resources being developed by the QuTune team, invited presenters and presentations submitted by the research community. It offers a hands-on introduction to programming quantum computers for musicians and enthusiasts, and practical demonstrations. We welcome proposals for presentations (see [How to participate](#how-to-participate) below).
 
-The symposium will take place online and attendance is free of charge. Places are limited, __registration is required__. Registration information will be posted here in due time. Please watch this space. 
+The symposium will take place online and attendance is free of charge. Places are limited, __registration is required__. Registration form is [below](#registration). 
 
 # Organising Team
 - Eduardo R. Miranda (ICCMR, University of Plymouth, UK)
@@ -61,7 +61,7 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 
 13:00 – 13:30: **Conceptualizing Quantum Music**
 - _Karl Svozil_ (TU Wien, Austria)
- 
+
 
 13:30 – 14:00: **Composing with Quantum Walks and the Basak-Miranda Algorithm**
 - _Suchitra Basak_ (University of Plymouth, UK)
