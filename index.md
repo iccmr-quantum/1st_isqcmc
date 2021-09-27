@@ -170,7 +170,7 @@ Working groups by invitation only
 
 # Registration
 <script src="./GoogleFormStyler.js"
-  form="https://docs.google.com/forms/d/e/1FAIpQLSesTDWOj083KvxhPJN9ocgijGE7HNvb6pTP-rnI6gC8bhgCHQ/viewform?embedded=true">
+  form="https://docs.google.com/forms/d/e/1FAIpQLSesTDWOj083KvxhPJN9ocgijGE7HNvb6pTP-rnI6gC8bhgCHQ/viewform?embedded=true&hl=en">
 </script>
 <style type="text/css">
   /* needs to be done after the loading of the form... */
