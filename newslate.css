@@ -1,0 +1,383 @@
+@import url("https://fonts.googleapis.com/css2?family=Glory:wght@800&display=swap");
+html {
+  font-size: 36px;
+}
+
+.heading {
+  font-family: "Glory", sans-serif;
+  background-image: radial-gradient(circle, #ddd, #000 13em);
+}
+
+.card {
+  position: relative;
+}
+
+/* based on code by Amit Sheen */
+.back {
+  position: absolute;
+  /*position: relative;*/
+  /*top: -6em;*/
+  top: -10em;
+  left: -6em;
+  width: 12em;
+  height: 10em;
+  background-color: #ddd;
+  font-size: 36px; 
+}
+
+.forcefont {
+  font-size: 36px; 
+}
+
+.text {
+  position: absolute;
+  /*position: relative;*/
+  /*top: -6em;*/
+  top: -10em;
+  left: -6em;
+  width: 12em;
+  height: 10em;
+  background-color: #111;
+  mix-blend-mode: darken;
+  padding: 1em;
+  letter-spacing: 1px;
+  line-height: 1;
+  font-size: 36px;
+}
+
+.blob {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-animation: blobAngle 15s var(--delay) infinite linear;
+          animation: blobAngle 15s var(--delay) infinite linear;
+  filter: blur(2em);
+}
+.blob::after {
+  content: "";
+  position: absolute;
+  width: 4em;
+  height: 4em;
+  border-radius: 50%;
+  background-color: var(--color);
+  -webkit-animation: blobMove 3s var(--delay2) infinite ease-in-out alternate;
+          animation: blobMove 3s var(--delay2) infinite ease-in-out alternate;
+}
+@-webkit-keyframes blobAngle {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@keyframes blobAngle {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes blobMove {
+  from {
+    transform: translate(-50%, -150%);
+  }
+  to {
+    transform: translate(-50%, 50%);
+  }
+}
+@keyframes blobMove {
+  from {
+    transform: translate(-50%, -150%);
+  }
+  to {
+    transform: translate(-50%, 50%);
+  }
+}
+.blob:nth-child(1) {
+  --delay: 0s;
+  --delay2: 0s;
+  --color: yellow;
+}
+.blob:nth-child(2) {
+  --delay: -3s;
+  --delay2: -0.6s;
+  --color: green;
+}
+.blob:nth-child(3) {
+  --delay: -6s;
+  --delay2: -1.2s;
+  --color: blue;
+}
+.blob:nth-child(4) {
+  --delay: -9s;
+  --delay2: -1.8s;
+  --color: red;
+}
+
+/*input[type=text] {
+  color: white;
+  color:#373737;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: #ddd;
+}*/
+input[type=button] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: -10px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/*google forms overwrite?*/
+.freebirdFormviewerViewFooterFooterContainer {
+    display: none !important
+}
+.freebirdFormviewerViewNoPadding {
+  display: none;
+}
+.freebirdFormviewerViewNavigationPasswordWarning {
+  display: none;
+}
+.freebirdFormviewerComponentsQuestionBaseTitleDescContainer {
+  margin: 0;
+}
+.freebirdFormviewerViewNavigationProgress {
+  display: none !important
+}
+.freebirdFormviewerViewNavigationClearButton {
+  display: none !important
+}
+
+
+/*adapted from github template*/
+body {
+
+}
+/*section {
+  box-sizing: border-box;
+  color:#373737;
+  font-size: 16px;
+  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-align: justify;
+}
+
+footer {
+  box-sizing: border-box;
+  background-color:#111;
+  font-size: 16px;
+  font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+  text-align: justify;
+}
+
+.outer {
+  width: 100%;
+}
+
+.inner {
+  position: relative;
+  max-width: 640px;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
+section h1, section h2, section h3, section h4, section h5, section h6 {
+  margin: 10px 0;
+  font-weight: 700;
+  font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+  letter-spacing: -1px;
+}
+
+section h1 {
+  font-size: 36px;
+  font-weight: 700;
+}
+
+section h2 {
+  padding-bottom: 10px;
+  font-size: 32px;
+  background: url('../images/bg_hr.png') repeat-x bottom;
+}
+
+section h3 {
+  font-size: 24px;
+}
+
+section h4 {
+  font-size: 21px;
+}
+
+section h5 {
+  font-size: 18px;
+}
+
+section h6 {
+  font-size: 16px;
+}
+
+p {
+  margin: 10px 0 15px 0;
+}
+
+section footer p {
+  color: #f2f2f2;
+}
+
+a {
+  text-decoration: none;
+  color: #0F79D0;
+  text-shadow: none;
+
+  transition: color 0.5s ease;
+  transition: text-shadow 0.5s ease;
+  -webkit-transition: color 0.5s ease;
+  -webkit-transition: text-shadow 0.5s ease;
+  -moz-transition: color 0.5s ease;
+  -moz-transition: text-shadow 0.5s ease;
+  -o-transition: color 0.5s ease;
+  -o-transition: text-shadow 0.5s ease;
+  -ms-transition: color 0.5s ease;
+  -ms-transition: text-shadow 0.5s ease;
+}
+
+a:hover, a:focus {
+  text-decoration: underline;
+}
+
+ul {
+  list-style-position: inside;
+  list-style: disc;
+  padding-left: 20px;
+}*/
+
+
+
+/*small screens*/
+/*@media screen and (max-width: 992px) {
+  img {
+    max-width: 100%;
+  }
+}*/
+
+@media screen and (max-width: 480px) {
+  .back, .text {
+    left: -6em;
+    font-size: 30px;
+  }
+  .forcefont {
+    font-size: 30px; 
+  }
+  html {
+    font-size: 30px;
+  }
+
+  /*section {
+    font-size:14px;
+    min-width: 320px;
+    max-width: 480px;
+  }
+
+
+
+  .inner {
+    min-width: 320px;
+    max-width: 480px;
+  }
+
+  section h1 {
+    font-size: 28px;
+  }
+
+  section h2 {
+    font-size: 24px;
+  }
+
+  section h3 {
+    font-size: 21px;
+  }
+
+  section h4 {
+    font-size: 18px;
+  }
+
+  section h5 {
+    font-size: 14px;
+  }
+
+  section h6 {
+    font-size: 12px;
+  }
+
+  section code, section pre {
+    font-size: 11px;
+  }*/
+
+}
+
+@media screen and (max-width: 320px) {
+  .back, .text {
+    left: -6em;
+    font-size: 30px;
+  }
+  .forcefont {
+    font-size: 30px; 
+  }
+  html {
+    font-size: 30px;
+  }
+
+  /*section {
+    font-size:14px;
+    min-width: 240px;
+    max-width: 320px;
+  }
+  
+  .inner {
+    min-width: 240px;
+    max-width: 320px;
+  }
+
+
+  section h1 {
+    font-size: 24px;
+  }
+
+  section h2 {
+    font-size: 21px;
+  }
+
+  section h3 {
+    font-size: 18px;
+  }
+
+  section h4 {
+    font-size: 16px;
+  }
+
+  section h5 {
+    font-size: 14px;
+  }
+
+  section h6 {
+    font-size: 12px;
+  }
+
+  section code, section pre {
+    min-width: 240px;
+    max-width: 320px;
+    font-size: 11px;
+  }*/
+
+}

@@ -1,8 +1,8 @@
-![img](./img.png)
 
 
-## Fri 19 and Sat 20 November, 2021 
-## Online Event
+<br>
+<!-- ## Fri 19 and Sat 20 November, 2021  -->
+## _Online Event_
 
 # Introduction
 ### 1st International Symposium on Quantum Computing and Musical Creativity
@@ -13,9 +13,9 @@ There is a long history of research into using computers for music since the 195
 
 This first-ever quantum computer music symposium focuses on quantum computing for musical creativity. It takes place in the context of the [QuTune Project](https://iccmr-quantum.github.io/), and is organised by [University of Plymouth's ICCMR](http://cmr.soc.plymouth.ac.uk/) in collaboration with [Cambridge Quantum Computing](https://cambridgequantum.com/) and [IBM Quantum](https://www.ibm.com/quantum-computing/). In addition to creating resources for quantum computer music, QuTune is aimed at fostering a quantum-ready music tech community of early adopters.
 
-The programme comprises talks about the resources being developed by the QuTune team, invited presenters and presentations submitted by the research community. It offers a hands-on introduction to programming quantum computers for musicians and enthusiasts, and practical demonstrations. We welcome proposals for presentations (see [How to participate](#how-to-participate) below).
+The programme comprises talks about the resources being developed by the QuTune team, invited presenters and presentations submitted by the research community. It offers a hands-on introduction to programming quantum computers for musicians and enthusiasts, and practical demonstrations. We welcome proposals for presentations (see <a target="_self" href="#how-to-participate">How to participate</a> below).
 
-The symposium will take place online and attendance is free of charge. Places are limited, __registration is required__. Registration information will be posted here in due time. Please watch this space. 
+The symposium will take place online and attendance is free of charge. Places are limited, __registration is required__. Registration form is <a target="_self" href="#registration">below</a>.
 
 # Organising Team
 - Eduardo R. Miranda (ICCMR, University of Plymouth, UK)
@@ -35,11 +35,9 @@ The target audience for this symposium is musicians interested in reflecting on 
 
 A background in computer music and/or music technology is recommended in order to follow the presentations. Previous experience with computer programming, in particular Python, is also recommended to benefit from the tutorial. Familiarity with quantum computing is not mandatory, but would be advantageous. ([Here](https://www.ibm.com/quantum-computing/what-is-quantum-computing/) is a good place to start. A good popular science explanation with a short video is [here](https://www.quantamagazine.org/why-is-quantum-computing-so-hard-to-explain-20210608/)).
 
-To express your interest in participating, please fill in the form (link to access the form has expired).  The organizing team will contact you after the application deadline with further instructions to access the event.
+We are very keen to welcome those who already have been working with quantum computer music to present their work. We are planning to publish a selection of papers as a special issue of _Contemporary Music Journal_.
 
-We are very keen to welcome those who already have been working with quantum computer music to present their work. If you wish to present, then please let us know. There is space on the form to briefly describe the work that you would like to present. Should you qualify for a presentation, then we will send you instructions for writing a short paper. We are planning to publish a selection of papers as a special issue of _Contemporary Music Journal_.
-
-__NOTE: The deadline to submit papers for presentation expired on 03 September 2021. If you just want to watch the presentations and tutorial, don't panic! Instructions for registering to watch the presentations and tutorial will be posted on this webpage soon.__
+__NOTE: The deadline to submit papers for presentation expired on 03 September 2021. If you just want to watch the presentations and tutorial, don't panic! The registration form to watch the presentations and tutorial is posted <a target="_self" href="#registration">at the bottom</a> of this webpage.__
 
 In the meantime, for more information: contact.isqcmc@gmail.com
 
@@ -61,7 +59,7 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 
 13:00 – 13:30: **Conceptualizing Quantum Music**
 - _Karl Svozil_ (TU Wien, Austria)
- 
+
 
 13:30 – 14:00: **Composing with Quantum Walks and the Basak-Miranda Algorithm**
 - _Suchitra Basak_ (University of Plymouth, UK)
@@ -165,3 +163,33 @@ Working groups by invitation only
 
 19:15 - 19:45: **t.b.c.**
 - _Organising team_
+
+<!-- ![img](./img.png) -->
+<p style="text-align: center;"><a href="https://iccmr-quantum.github.io/"><img src="./img.png" alt="img" height="150px"></a></p>
+
+# Registration
+<script src="./GoogleFormStyler.js"
+  form="https://docs.google.com/forms/d/e/1FAIpQLSesTDWOj083KvxhPJN9ocgijGE7HNvb6pTP-rnI6gC8bhgCHQ/viewform?embedded=true">
+</script>
+<style type="text/css">
+  /* needs to be done after the loading of the form... */
+  .freebirdFormviewerViewNavigationSubmitButton {
+    margin-left: auto; 
+    margin-right: auto; 
+  }
+</style>
+<!-- intercept button click, not very good because it is before form submission -->
+<script type="text/javascript">
+  var ifrm = document.createElement("iframe");
+  ifrm.setAttribute("name", "swallow");
+  document.body.appendChild(ifrm);
+  ifrm.style.display = 'none';
+  document.forms[0].target="swallow";
+  var button = document.querySelectorAll("div[role='button']")[0];
+  button.addEventListener("click", function()
+  {
+    // alert('Here you can intercept the response');
+    // https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs/blob/main/services/google.md
+    document.getElementsByTagName("form")[0].innerHTML = "We have received your Application for the 1st International Symposium on quantum Computing and Musical Creativity.<br><br>(add to <a href='https://calendar.google.com/calendar/u/0/r/eventedit?dates=20211119T090000Z/20211119T194500Z&recur=RRULE:FREQ=DAILY;COUNT=2&text=ISQCMC&details=1st+International+Symposium+on+Quantum+Computing+and+Musical+Creativity%0A&location=https%3A%2F%2Ficcmr-quantum.github.io%2F1st_isqcmc%2F'>Google Calendar</a> or <a href='https://outlook.office.com/calendar/0/deeplink/compose?path=/calendar/action/compose&rru=addevent&startdt=2021-11-19Z&enddt=2021-11-20Z&recur=RRULE:FREQ=DAILY;COUNT=3&subject=ISQCMC&body=1st+International+Symposium+on+Quantum+Computing+and+Musical+Creativity:+https%3A%2F%2Ficcmr-quantum.github.io%2F1st_isqcmc%2F&location=Online'>Outlook 365</a>)";
+  }, true); 
+</script>
