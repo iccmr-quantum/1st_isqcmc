@@ -109,8 +109,23 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 
 ### Musical Demonstrations (18:30 - 19:30)
 
-18:30 – 19:30: **t.b.a.**
-- Convener: _Eduardo R. Miranda_ (University of Plymouth, UK)
+18:30 – 18:50: **Zeno** 
+-_Eduardo R. Miranda_ (University of Plymouth, UK)
+
+Composed in 2019, _Zeno_ is a piece for bass clarinet and electronic sounds, composed for clarinetist Sara Watts. During the performance, the system listens to the bass clarinet and generates responses (almost) on the fly. The composer will introduce the piece, the quantum sotfware and inspiration, and will play excertps recorded from the premiere, which took place at The Capstone Theatre, Liverpool, UK. 
+
+18:50 – 19:10: **Second Cornestone**
+-_Omar Costa Hamido_ (University of Plymouth, UK)
+
+Composed in 2020, _Second Cornestone_ is a piece for kamâncheh (an Iranian bowed string instrument) and music stands. The composer will introduce the piece, the quantum sotfware and inspiration, and will play a recording from the premiere, which took place at University of California, Irvine, USA.
+
+19:10 – 19:30: **Quantum Sound: A Live Performance of Superconducting Instruments**
+- _Spencer Topel_ Performer (Yale Quantum Institute, USA)
+- _Luke Burkhart_ Performer (Yale Quantum Institute & Keysight Technologies, USA)
+- _Kyle Serniak_ Performet (Yale Quantum Institute & MIT Lincoln Laboratory, USA)
+- _Florian Carle_ Producer (Yale Quantum Institute, USA)
+
+Composition performed live from Yale’s Quantum Labs at the Becton Center in New Haven USA. A short introduction to the piece will be given before the performence. (See also Research Papers Session II)
 
 #  DAY 2: 20 Nov 2021
 
