@@ -85,6 +85,7 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 
 15:30 – 16:00: **Quantum Cellular Automata Music**
 - _Hector Miller-Bakewell_
+- _Eduardo R. Miranda_ (University of Plymouth, UK)
 
 
 16:00 – 16:30: **Playing Superconductive Qubits as Musical Synthesizers for Live Performance**
