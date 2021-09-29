@@ -170,8 +170,6 @@ Composition performed live from Yale’s Quantum Labs at the Becton Center in Ne
 ### QuTune Brainstorming Session (15:00 - 18:00)
 Working groups by invitation only
 
-15:00 – 18:00: **t.b.c.**
-
 
 ### Demonstration (18:30 – 19:30) 
 
@@ -180,7 +178,6 @@ Working groups by invitation only
 
 ### Announcements and Goodbye (19:30 - 19:45)
 
-19:15 - 19:45: **t.b.c.**
 - _Organising team_
 
 
