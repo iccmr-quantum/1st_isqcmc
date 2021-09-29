@@ -117,7 +117,7 @@ Composed in 2019, _Zeno_ is a piece for bass clarinet and electronic sounds, com
 18:50 – 19:10: **Second Cornestone**
 - _Omar Costa Hamido_ (University of Plymouth, UK)
 
-Composed in 2020, _Second Cornestone_ is a piece for kamâncheh (an Iranian bowed string instrument) and music stands. The composer will introduce the piece, the quantum sotfware and inspiration, and will play a recording from the premiere, which took place at University of California, Irvine, USA.
+Composed in 2020, _Second Cornestone_ is a piece for kamâncheh (an Iranian bowed string instrument) and music stands. The composer will introduce the piece, the quantum sotfware and inspiration, and will play a recording from the premiere, which took place at the University of California, Irvine, USA.
 
 19:10 – 19:30: **Quantum Sound: A Live Performance of Superconducting Instruments**
 - _Spencer Topel_ Performer (Yale Quantum Institute, USA)
