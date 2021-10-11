@@ -50,7 +50,7 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 
 # DAY 1: 19 Nov 2021 
 
-09:00 - 9:50: **Welcome and Introduction to QuTune Project**
+09:30 - 9:50: **Welcome and Introduction to QuTune Project**
 - _Eduardo R. Miranda, Ilyas Khan and Bob Coecke_ 
 
 ### Tutorial I (10:00 - 12:00)
