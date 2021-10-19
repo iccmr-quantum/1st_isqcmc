@@ -212,7 +212,7 @@ email@email.com
     var jsocial = document.getElementById("fsocial").value;
     var URL = "https://docs.google.com/forms/d/e/1FAIpQLSesTDWOj083KvxhPJN9ocgijGE7HNvb6pTP-rnI6gC8bhgCHQ/formResponse?usp=pp_url&entry.222734838=" + encodeURIComponent(jemail) + "&entry.2092238618=" + encodeURIComponent(jname) + "&entry.1556369182=" + encodeURIComponent(jaffiliation) + "&entry.1612254025=" + encodeURIComponent(jsocial) + "&submit=Submit";
     document.getElementById("form").innerHTML = "We have received your Application for the 1st International Symposium on quantum Computing and Musical Creativity.";
-    URL = "https://www.google.com";
+    // URL = "https://www.google.com";
     httpGet(URL);
   }
   function httpGet(theUrl)
