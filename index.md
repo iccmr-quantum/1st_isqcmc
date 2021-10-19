@@ -190,13 +190,13 @@ email@email.com
 &submit=submit -->
 <form id="form" onsubmit="" action="#form">
   <label for="femail">Email:</label><br>
-  <input type="text" id="femail" name="femail" value="" placeholder="Email..." required /><br>
+  <input type="text" id="femail" name="femail" value="" placeholder="Your Email..." required /><br>
   <label for="fname">Full Name:</label><br>
-  <input type="text" id="fname" name="fname" placeholder="Full Name..." value="" required /><br>
+  <input type="text" id="fname" name="fname" placeholder="Your Name..." value="" required /><br>
   <label for="faffiliation">Affiliation:</label><br>
-  <input type="text" id="faffiliation" name="faffiliation" placeholder="Affiliation (City and country of residence suffice)..." required /><br>
+  <input size="40" type="text" id="faffiliation" name="faffiliation" placeholder="(City and country of residence suffice)..." required /><br>
   <label for="fsocial">Social Media Links:</label><br>
-  <input type="text" id="fsocial" name="fsocial" placeholder="Social Media Links (LinkedIn, Twitter, Webpage, etc)..." required /><br>
+  <input size="40" type="text" id="fsocial" name="fsocial" placeholder="(LinkedIn, Twitter, Webpage, etc)..." required /><br>
   <br>
   <input id="submit" type="submit" value="Submit">
 </form> 
