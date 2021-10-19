@@ -182,17 +182,56 @@ Working groups by invitation only
 
 
 # Registration
-<script src="./GoogleFormStyler.js"
+<!-- https://docs.google.com/forms/d/e/1FAIpQLSesTDWOj083KvxhPJN9ocgijGE7HNvb6pTP-rnI6gC8bhgCHQ/viewform?usp=pp_url&entry.222734838=
+email@email.com
+&entry.2092238618=Full+Name
+&entry.1556369182=Affiliation
+&entry.1612254025=Social+Media+Links+like+http://socialmedia.com
+&submit=submit -->
+<form id="form" onsubmit="" action="#form">
+  <label for="femail">Email:</label><br>
+  <input type="text" id="femail" name="femail" value="" placeholder="Your Email..." required /><br>
+  <label for="fname">Full Name:</label><br>
+  <input type="text" id="fname" name="fname" placeholder="Your Name..." value="" required /><br>
+  <label for="faffiliation">Affiliation:</label><br>
+  <input size="40" type="text" id="faffiliation" name="faffiliation" placeholder="(City and country of residence suffice)..." required /><br>
+  <label for="fsocial">Social Media Links:</label><br>
+  <input size="40" type="text" id="fsocial" name="fsocial" placeholder="(LinkedIn, Twitter, Webpage, etc)..." required /><br>
+  <br>
+  <input id="submit" type="submit" value="Submit">
+</form> 
+<script>
+  var form = document.getElementById("form");
+  // function handleForm(event) { event.preventDefault(); } 
+  form.addEventListener('submit', submitform);
+  function submitform(e) {
+    e.preventDefault();
+    var jemail = document.getElementById("femail").value;
+    var jname = document.getElementById("fname").value;
+    var jaffiliation = document.getElementById("faffiliation").value;
+    var jsocial = document.getElementById("fsocial").value;
+    var URL = "https://docs.google.com/forms/d/e/1FAIpQLSesTDWOj083KvxhPJN9ocgijGE7HNvb6pTP-rnI6gC8bhgCHQ/formResponse?usp=pp_url&entry.222734838=" + encodeURIComponent(jemail) + "&entry.2092238618=" + encodeURIComponent(jname) + "&entry.1556369182=" + encodeURIComponent(jaffiliation) + "&entry.1612254025=" + encodeURIComponent(jsocial) + "&submit=Submit";
+    document.getElementById("form").innerHTML = "We have received your Application for the 1st International Symposium on quantum Computing and Musical Creativity.";
+    // URL = "https://www.google.com";
+    httpGet(URL);
+  }
+  function httpGet(theUrl)
+  {
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
+    xmlHttp.send( null );
+    return xmlHttp.responseText;
+  }
+</script>
+<!-- <script src="./GoogleFormStyler.js"
   form="https://docs.google.com/forms/d/e/1FAIpQLSesTDWOj083KvxhPJN9ocgijGE7HNvb6pTP-rnI6gC8bhgCHQ/viewform?embedded=true&hl=en">
 </script>
 <style type="text/css">
-  /* needs to be done after the loading of the form... */
   .freebirdFormviewerViewNavigationSubmitButton {
     margin-left: auto; 
     margin-right: auto; 
   }
 </style>
-<!-- intercept button click, not very good because it is before form submission -->
 <script type="text/javascript">
   var ifrm = document.createElement("iframe");
   ifrm.setAttribute("name", "swallow");
@@ -206,4 +245,4 @@ Working groups by invitation only
     // https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs/blob/main/services/google.md
     document.getElementsByTagName("form")[0].innerHTML = "We have received your Application for the 1st International Symposium on quantum Computing and Musical Creativity.<br><br>(add to <a href='https://calendar.google.com/calendar/u/0/r/eventedit?dates=20211119T090000Z/20211119T194500Z&recur=RRULE:FREQ=DAILY;COUNT=2&text=ISQCMC&details=1st+International+Symposium+on+Quantum+Computing+and+Musical+Creativity%0A&location=https%3A%2F%2Ficcmr-quantum.github.io%2F1st_isqcmc%2F'>Google Calendar</a> or <a href='https://outlook.office.com/calendar/0/deeplink/compose?path=/calendar/action/compose&rru=addevent&startdt=2021-11-19Z&enddt=2021-11-20Z&recur=RRULE:FREQ=DAILY;COUNT=3&subject=ISQCMC&body=1st+International+Symposium+on+Quantum+Computing+and+Musical+Creativity:+https%3A%2F%2Ficcmr-quantum.github.io%2F1st_isqcmc%2F&location=Online'>Outlook 365</a>)";
   }, true); 
-</script>
+</script> -->
