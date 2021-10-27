@@ -113,12 +113,12 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 18:30 – 18:50: **Zeno** 
 - _Eduardo R. Miranda_ (University of Plymouth, UK)
 
-Composed in 2019, _Zeno_ is a piece for bass clarinet and electronic sounds, composed for clarinetist Sara Watts. During the performance, the system listens to the bass clarinet and generates responses on the fly. The composer will introduce the piece, the quantum sotfware and inspiration, and will play excertps recorded from the premiere, which took place at The Capstone Theatre, Liverpool, UK. 
+Composed in 2019, _Zeno_ is a piece for bass clarinet and electronic sounds, composed for clarinetist Sara Watts. During the performance, the system listens to the bass clarinet and generates responses on the fly. The composer will introduce the piece, the quantum software and inspiration, and will play excerpts recorded from the premiere, which took place at The Capstone Theatre, Liverpool, UK. 
 
-18:50 – 19:10: **Second Cornestone**
+18:50 – 19:10: **Second Cornerstone**
 - _Omar Costa Hamido_ (University of Plymouth, UK)
 
-Composed in 2020, _Second Cornestone_ is a piece for kamâncheh (an Iranian bowed string instrument) and music stands. The composer will introduce the piece, the quantum sotfware and inspiration, and will play a recording from the premiere, which took place at the University of California, Irvine, USA.
+Composed in 2020, _Second Cornerstone_ is a piece for kamâncheh (an Iranian bowed string instrument) and music stands, performed by [Niloufar Shiri](https://www.niloufarshiri.com/) and [Omar Costa Hamido](https://omarcostahamido.com). The composer will introduce the piece, the quantum software and inspiration, and will play the recording from [_The Gedanken Room_](https://go.och.pw/gedanken-imdb), shot in Irvine, USA, and premiered in 2021.
 
 19:10 – 19:30: **Quantum Sound: A Live Performance of Superconducting Instruments**
 - _Spencer Topel_  (Performer, Yale Quantum Institute, USA)
@@ -126,7 +126,7 @@ Composed in 2020, _Second Cornestone_ is a piece for kamâncheh (an Iranian bowe
 - _Kyle Serniak_ (Performer, Yale Quantum Institute & MIT Lincoln Laboratory, USA)
 - _Florian Carle_ (Producer, Yale Quantum Institute, USA)
 
-Composition performed live from Yale’s Quantum Labs at the Becton Center in New Haven USA. A short introduction to the piece will be given before the performence. (See also Research Papers Session II)
+Composition performed live from Yale’s Quantum Labs at the Becton Center in New Haven USA. A short introduction to the piece will be given before the performance. (See also <a target="_self" href="#research-papers-session-ii-1530---1800">Research Papers Session II</a>)
 
 #  DAY 2: 20 Nov 2021
 
