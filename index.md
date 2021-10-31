@@ -83,9 +83,10 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 
 ### Research Papers Session II (15:30 –  18:00)
 
-15:30 – 16:00: **Quantum Cellular Automata Music**
-- _Hector Miller-Bakewell_
-- _Eduardo R. Miranda_ (University of Plymouth, UK)
+15:30 – 16:00: **Making Music Using Two Quantum Algorithms**
+- _Euan J. Allen_ (University of Bristol, UK)
+- _Jacob F. F. Bulmer_ (University of Bristol, UK)
+- _Simon Small_
 
 
 16:00 – 16:30: **Playing Superconductive Qubits as Musical Synthesizers for Live Performance**
@@ -99,10 +100,9 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 - _Satofumi Souma_ (Kobe University, Japan)
 
 
-17:00 – 17:30: **Making Music Using Two Quantum Algorithms**
-- _Euan J. Allen_ (University of Bristol, UK)
-- _Jacob F. F. Bulmer_ (University of Bristol, UK)
-- _Simon Small_
+17:00 – 17:30: **Quantum Cellular Automata Music**
+- _Hector Miller-Bakewell_
+- _Eduardo R. Miranda_ (University of Plymouth, UK)
 
 
 17:30 – 18:00: **QuiKo: Quantum Beat Generation**
