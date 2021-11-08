@@ -73,7 +73,7 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 - _Davide Rocchesso_ (University of Palermo, Italy)
 
 
-14:30 – 15:00: **Quantum Machine Learning of Music with Meaning**
+14:30 – 15:00: **A Quantum Natural Language Processing Approach to Musical Intelligence**
 - _Eduardo R. Miranda_ (University of Plymouth, UK)
 - _Richie Yeung_ (Cambridge Quantum, UK)
 - _Anna Pearson_ (Cambridge Quantum, UK)
