@@ -180,7 +180,7 @@ Working groups by invitation only
 
 - _Organising team_
 
-# ->> Registration will close on Wed, Nov 17th, at 23:00 (GMT) <<- #
+## ->> Registration closes on Wed, Nov 17th, at 23:00 (GMT) <<- ##
 
 # Registration
 <!-- https://docs.google.com/forms/d/e/1FAIpQLSesTDWOj083KvxhPJN9ocgijGE7HNvb6pTP-rnI6gC8bhgCHQ/viewform?usp=pp_url&entry.222734838=
