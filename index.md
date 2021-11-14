@@ -173,7 +173,7 @@ Working groups by invitation only
 
 ### Demonstration (18:30 – 19:30) 
 
-18:15 – 19:15: **Software - Quantum Music Playground**
+18:30 – 19:30: **Software - Quantum Music Playground**
 - _James Weaver_ (IBM Quantum, USA)
 
 ### Announcements and Goodbye (19:30 - 19:45)
