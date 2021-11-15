@@ -157,7 +157,7 @@ Composition performed live from Yale’s Quantum Labs at the Becton Center in Ne
 13:30 – 14:00: **Applications of Quantum Annealing to Music Theory**
 - _Özlem Salehi Köken_ (Polish Academy of Sciences, Poland)
 - _Ludmila Botelho_ (Polish Academy of Sciences and Silesian University of Technology, Poland)
-- _Ashish Arya_ (QWorld Organization)
+- _Ashish Arya_ (ICT Academy, Indian Institute of Technology, Kanpur, India)
 - _Fabiola Cañete_ (Benemérita Universidad Autónoma de Puebla, Mexico)
 - _Dhruvi Kapadia_ (Sarvajanik College Of Engineering and Technology, India)
 
