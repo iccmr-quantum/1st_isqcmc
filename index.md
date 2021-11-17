@@ -18,7 +18,7 @@ This first-ever quantum computer music symposium focuses on quantum computing fo
 
 The programme comprises talks about the resources being developed by the QuTune team, invited presenters and presentations submitted by the research community. It offers a hands-on introduction to programming quantum computers for musicians and enthusiasts, and practical demonstrations. We welcome proposals for presentations (see <a target="_self" href="#how-to-participate">How to participate</a> below).
 
-The symposium will take place online and attendance is free of charge. Places are limited, __registration is required__. Registration form is <a target="_self" href="#registration">below</a>.
+The symposium will take place online and attendance is free of charge. Places are limited, __registration is required (closed)__.
 
 # Organising Team
 - Eduardo R. Miranda (ICCMR, University of Plymouth, UK)
@@ -40,7 +40,7 @@ A background in computer music and/or music technology is recommended in order t
 
 We are very keen to welcome those who already have been working with quantum computer music to present their work. We are planning to publish a selection of papers as a special issue of _Contemporary Music Journal_.
 
-__NOTE: The deadline to submit papers for presentation expired on 03 September 2021. If you just want to watch the presentations and tutorial, don't panic! The registration form to watch the presentations and tutorial is posted <a target="_self" href="#registration">at the bottom</a> of this webpage.__
+__NOTE: The deadline to submit papers for presentation expired on 03 September 2021.__
 
 In the meantime, for more information: contact.isqcmc@gmail.com
 
@@ -180,70 +180,5 @@ Working groups by invitation only
 
 - _Organising team_
 
-## ->> Registration closes on Wed, Nov 17th, at 23:00 (GMT) <<- ##
+## ->> Registration is closed <<- ##
 
-# Registration
-<!-- https://docs.google.com/forms/d/e/1FAIpQLSesTDWOj083KvxhPJN9ocgijGE7HNvb6pTP-rnI6gC8bhgCHQ/viewform?usp=pp_url&entry.222734838=
-email@email.com
-&entry.2092238618=Full+Name
-&entry.1556369182=Affiliation
-&entry.1612254025=Social+Media+Links+like+http://socialmedia.com
-&submit=submit -->
-<form id="form" onsubmit="" action="#form">
-  <label for="femail">Email:</label><br>
-  <input type="text" id="femail" name="femail" value="" placeholder="Your Email..." required /><br>
-  <label for="fname">Full Name:</label><br>
-  <input type="text" id="fname" name="fname" placeholder="Your Name..." value="" required /><br>
-  <label for="faffiliation">Affiliation:</label><br>
-  <input size="40" type="text" id="faffiliation" name="faffiliation" placeholder="(City and country of residence suffice)..." required /><br>
-  <label for="fsocial">Social Media Links:</label><br>
-  <input size="40" type="text" id="fsocial" name="fsocial" placeholder="(LinkedIn, Twitter, Webpage, etc)..." required /><br>
-  <br>
-  <input id="submit" type="submit" value="Submit">
-</form> 
-<script>
-  var form = document.getElementById("form");
-  // function handleForm(event) { event.preventDefault(); } 
-  form.addEventListener('submit', submitform);
-  function submitform(e) {
-    e.preventDefault();
-    var jemail = document.getElementById("femail").value;
-    var jname = document.getElementById("fname").value;
-    var jaffiliation = document.getElementById("faffiliation").value;
-    var jsocial = document.getElementById("fsocial").value;
-    var URL = "https://docs.google.com/forms/d/e/1FAIpQLSesTDWOj083KvxhPJN9ocgijGE7HNvb6pTP-rnI6gC8bhgCHQ/formResponse?usp=pp_url&entry.222734838=" + encodeURIComponent(jemail) + "&entry.2092238618=" + encodeURIComponent(jname) + "&entry.1556369182=" + encodeURIComponent(jaffiliation) + "&entry.1612254025=" + encodeURIComponent(jsocial) + "&submit=Submit";
-    document.getElementById("form").innerHTML = "We have received your application for the 1st International Symposium on Quantum Computing and Musical Creativity. You will receive an email within the next days with more information. Thank you.";
-    // URL = "https://www.google.com";
-    httpGet(URL);
-  }
-  function httpGet(theUrl)
-  {
-    var xmlHttp = new XMLHttpRequest();
-    xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
-    xmlHttp.send( null );
-    return xmlHttp.responseText;
-  }
-</script>
-<!-- <script src="./GoogleFormStyler.js"
-  form="https://docs.google.com/forms/d/e/1FAIpQLSesTDWOj083KvxhPJN9ocgijGE7HNvb6pTP-rnI6gC8bhgCHQ/viewform?embedded=true&hl=en">
-</script>
-<style type="text/css">
-  .freebirdFormviewerViewNavigationSubmitButton {
-    margin-left: auto; 
-    margin-right: auto; 
-  }
-</style>
-<script type="text/javascript">
-  var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("name", "swallow");
-  document.body.appendChild(ifrm);
-  ifrm.style.display = 'none';
-  document.forms[0].target="swallow";
-  var button = document.querySelectorAll("div[role='button']")[0];
-  button.addEventListener("click", function()
-  {
-    // alert('Here you can intercept the response');
-    // https://github.com/InteractionDesignFoundation/add-event-to-calendar-docs/blob/main/services/google.md
-    document.getElementsByTagName("form")[0].innerHTML = "We have received your application for the 1st International Symposium on Quantum Computing and Musical Creativity.<br>You will receive an email within the next days with more information. Thank you.<br><br>(add to <a href='https://calendar.google.com/calendar/u/0/r/eventedit?dates=20211119T090000Z/20211119T194500Z&recur=RRULE:FREQ=DAILY;COUNT=2&text=ISQCMC&details=1st+International+Symposium+on+Quantum+Computing+and+Musical+Creativity%0A&location=https%3A%2F%2Ficcmr-quantum.github.io%2F1st_isqcmc%2F'>Google Calendar</a> or <a href='https://outlook.office.com/calendar/0/deeplink/compose?path=/calendar/action/compose&rru=addevent&startdt=2021-11-19Z&enddt=2021-11-20Z&recur=RRULE:FREQ=DAILY;COUNT=3&subject=ISQCMC&body=1st+International+Symposium+on+Quantum+Computing+and+Musical+Creativity:+https%3A%2F%2Ficcmr-quantum.github.io%2F1st_isqcmc%2F&location=Online'>Outlook 365</a>)";
-  }, true); 
-</script> -->
