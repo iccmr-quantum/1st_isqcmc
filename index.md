@@ -113,7 +113,7 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 18:30 – 18:50: **Zeno** 
 - _Eduardo R. Miranda_ (University of Plymouth, UK)
 
-Composed in 2019, _Zeno_ is a piece for bass clarinet and electronic sounds, composed for clarinetist Sara Watts. During the performance, the system listens to the bass clarinet and generates responses on the fly. The composer will introduce the piece, the quantum software and inspiration, and will play excerpts recorded from the premiere, which took place at The Capstone Theatre, Liverpool, UK. 
+Composed in 2019, _Zeno_ is a piece for bass clarinet and electronic sounds, composed for clarinetist [Sara Watts](http://www.sarahkwatts.co.uk/home/index.html). During the performance, the system listens to the bass clarinet and generates responses on the fly. The composer will introduce the piece, the [quantum software](https://arxiv.org/abs/2005.05832) and inspiration, and will play excerpts recorded from the premiere, which took place at The Capstone Theatre, Liverpool, UK. 
 
 18:50 – 19:10: **Second Cornerstone**
 - _Omar Costa Hamido_ (University of Plymouth, UK)
