@@ -55,7 +55,7 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 
 ### Tutorial I (10:00 - 12:00)
 
-10:00 - 12:00: **Introduction to Quantum Computing for Musicians – Part 1**
+10:00 - 12:00: **Intro to Quantum Computer Music – Part 1**
 - _Omar Costa Hamido_ (University of Plymouth, UK)
 
 ### Research Papers Session I (13:00 – 15:00)
@@ -132,7 +132,7 @@ Composition performed live from Yale’s Quantum Labs at the Becton Center in Ne
 
 ### Tutorial II (09:00 - 10:30)
 
-09:00 - 10:30: **Introduction to Quantum Computing for Musicians – Part 2**
+09:00 - 10:30: **Intro to Quantum Computer Music – Part 2**
 - _Omar Costa Hamido_ (University of Plymouth, UK)
 
 ### Research Papers Session III (11:00 – 12:00)
