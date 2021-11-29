@@ -180,5 +180,4 @@ Working groups by invitation only
 
 - _Organising team_
 
-## ->> Registration is closed <<- ##
 
