@@ -108,19 +108,19 @@ Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](ht
 17:30 – 18:00: **QuiKo: Quantum Beat Generation**
 - _Scott Oshiro_ (Stanford University, USA)
 
-### Musical Demonstrations (18:30 - 19:30)
+### Musical Demonstrations (18:30 - 19:30) [[playlist](https://youtube.com/playlist?list=PLRmEp241YK0o5a6wJEuCbzggHHJWH6XFV)]
 
-18:30 – 18:50: **Zeno** 
+18:30 – 18:50: **Zeno** [[recording](https://youtu.be/ZqiMhpppa1c)]
 - _Eduardo R. Miranda_ (University of Plymouth, UK)
 
 Composed in 2019, _Zeno_ is a piece for bass clarinet and electronic sounds, composed for clarinetist [Sara Watts](http://www.sarahkwatts.co.uk/home/index.html). During the performance, the system listens to the bass clarinet and generates responses on the fly. The composer will introduce the piece, the [quantum software](https://arxiv.org/abs/2005.05832) and inspiration, and will play excerpts recorded from the premiere, which took place at The Capstone Theatre, Liverpool, UK. 
 
-18:50 – 19:10: **Second Cornerstone**
+18:50 – 19:10: **Second Cornerstone** [[recording](https://www.youtube.com/watch?v=o3bKRE-nCIQ)]
 - _Omar Costa Hamido_ (University of Plymouth, UK)
 
 Composed in 2020, _Second Cornerstone_ is a piece for kamâncheh (an Iranian bowed string instrument) and music stands, performed by [Niloufar Shiri](https://www.niloufarshiri.com/) and [Omar Costa Hamido](https://omarcostahamido.com). The composer will introduce the piece, the quantum software and inspiration, and will play the recording from [_The Gedanken Room_](https://go.och.pw/gedanken-imdb), shot in Irvine, USA, and premiered in 2021.
 
-19:10 – 19:30: **Quantum Sound: A Live Performance of Superconducting Instruments**
+19:10 – 19:30: **Quantum Sound: A Live Performance of Superconducting Instruments** [[recording](https://www.youtube.com/watch?v=aOVW59VhaNk)]
 - _Spencer Topel_  (Performer, Yale Quantum Institute, USA)
 - _Luke Burkhart_ (Performer, Yale Quantum Institute & Keysight Technologies, USA)
 - _Kyle Serniak_ (Performer, Yale Quantum Institute & MIT Lincoln Laboratory, USA)
