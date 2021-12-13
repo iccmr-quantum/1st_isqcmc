@@ -171,9 +171,9 @@ Composition performed live from Yale’s Quantum Labs at the Becton Center in Ne
 Working groups by invitation only
 
 
-### Demonstration (18:30 – 19:30) 
+### Demonstration (18:30 – 19:30) [[playlist](https://youtube.com/playlist?list=PLRmEp241YK0rwXB35alasusK-YYy-bpXK)]
 
-18:30 – 19:30: **Software - Quantum Music Playground**
+18:30 – 19:30: **Software - Quantum Music Playground** [[recording](https://www.youtube.com/watch?v=8j4gxfJQxtk&list=PLRmEp241YK0rwXB35alasusK-YYy-bpXK)]
 - _James Weaver_ (IBM Quantum, USA)
 
 ### Announcements and Goodbye (19:30 - 19:45)
