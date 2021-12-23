@@ -60,22 +60,22 @@ _Updating_: <u>See here the [[complete recordings playlist](https://youtube.com/
 10:00 - 12:00: **Intro to Quantum Computer Music – Part 1** [[recording](https://www.youtube.com/watch?v=-vq_bELlhrI&list=PLRmEp241YK0pZjItJ5oZopZt9m-_xsB-Y&index=1)]
 - _Omar Costa Hamido_ (University of Plymouth, UK)
 
-### Research Papers Session I (13:00 – 15:00)
+### Research Papers Session I (13:00 – 15:00) [[playlist](https://youtube.com/playlist?list=PLRmEp241YK0p9cuQr6m3FKkR4rlji-7zt)]
 
-13:00 – 13:30: **Conceptualizing Quantum Music**
+13:00 – 13:30: **Conceptualizing Quantum Music** [[recording](https://www.youtube.com/watch?v=zNCWDfK-tbU&list=PLRmEp241YK0p9cuQr6m3FKkR4rlji-7zt)]
 - _Karl Svozil_ (TU Wien, Austria)
 
 
-13:30 – 14:00: **Composing with Quantum Walks and the Basak-Miranda Algorithm**
+13:30 – 14:00: **Composing with Quantum Walks and the Basak-Miranda Algorithm** [[recording](https://www.youtube.com/watch?v=lnr8vUBQd8w&list=PLRmEp241YK0p9cuQr6m3FKkR4rlji-7zt)]
 - _Suchitra Basak_ (University of Plymouth, UK)
 
 
-14:00 – 14:30: **Quantum of Sound, the Sound of Quanta**
+14:00 – 14:30: **Quantum of Sound, the Sound of Quanta** [[recording](https://www.youtube.com/watch?v=NN-dPIdpkBY&list=PLRmEp241YK0p9cuQr6m3FKkR4rlji-7zt)]
 - _Maria Mannone_ (University of Palermo & Ca’ Foscari University of Venice, Italy)
 - _Davide Rocchesso_ (University of Palermo, Italy)
 
 
-14:30 – 15:00: **A Quantum Natural Language Processing Approach to Musical Intelligence**
+14:30 – 15:00: **A Quantum Natural Language Processing Approach to Musical Intelligence** [[recording](https://www.youtube.com/watch?v=ARkd1RUXsoE&list=PLRmEp241YK0p9cuQr6m3FKkR4rlji-7zt)]
 - _Eduardo R. Miranda_ (University of Plymouth, UK)
 - _Richie Yeung_ (Cambridge Quantum, UK)
 - _Anna Pearson_ (Cambridge Quantum, UK)
