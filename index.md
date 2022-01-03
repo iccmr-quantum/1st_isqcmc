@@ -137,13 +137,13 @@ Composition performed live from Yale’s Quantum Labs at the Becton Center in Ne
 09:00 - 10:30: **Intro to Quantum Computer Music – Part 2** [[recording](https://www.youtube.com/watch?v=6UrNguY8zGY&list=PLRmEp241YK0pZjItJ5oZopZt9m-_xsB-Y&index=2)]
 - _Omar Costa Hamido_ (University of Plymouth, UK)
 
-### Research Papers Session III (11:00 – 12:00)
+### Research Papers Session III (11:00 – 12:00) [[playlist](https://youtube.com/playlist?list=PLRmEp241YK0pDsf5riOeTyXspAs0B-IHG)]
 
-11:00 – 11:30: **Quantum Audio Representations**
+11:00 – 11:30: **Quantum Audio Representations** [[recording](https://www.youtube.com/watch?v=J8cPs7tw964&list=PLRmEp241YK0pDsf5riOeTyXspAs0B-IHG)]
 - _Paulo Itaboraí_ (University of Plymouth, UK)
 
 
-11:30 – 12:00: **Quantum Frequency Detector for Audio Files**
+11:30 – 12:00: **Quantum Frequency Detector for Audio Files** [[recording](https://www.youtube.com/watch?v=aN2IMeWWlgM&list=PLRmEp241YK0pDsf5riOeTyXspAs0B-IHG&index=2)]
 - _Rajiv Mistry_ (Pivotport, USA)
 - _Jonathan Ortega_ (Purdue University, USA)
 
