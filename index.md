@@ -83,31 +83,31 @@ _Updating_: <u>See here the [[complete recordings playlist](https://youtube.com/
 - _Bob Coecke_ (Cambridge Quantum, UK)
 
 
-### Research Papers Session II (15:30 –  18:00)
+### Research Papers Session II (15:30 –  18:00) [[playlist](https://youtube.com/playlist?list=PLRmEp241YK0o-0jzPoDcGNdXTEhW71o5n)]
 
-15:30 – 16:00: **Making Music Using Two Quantum Algorithms**
+15:30 – 16:00: **Making Music Using Two Quantum Algorithms** [[recording](https://www.youtube.com/watch?v=EEqriiNIX_w&list=PLRmEp241YK0o-0jzPoDcGNdXTEhW71o5n)]
 - _Euan J. Allen_ (University of Bristol, UK)
 - _Jacob F. F. Bulmer_ (University of Bristol, UK)
 - _Simon Small_
 
 
-16:00 – 16:30: **Playing Superconductive Qubits as Musical Synthesizers for Live Performance**
+16:00 – 16:30: **Playing Superconductive Qubits as Musical Synthesizers for Live Performance** [[recording](https://www.youtube.com/watch?v=4bDeeJ-WRh8&list=PLRmEp241YK0o-0jzPoDcGNdXTEhW71o5n)]
 - _Spencer Topel_ (Yale Quantum Institute, USA)
 - _Luke Burkhart_ (Yale Quantum Institute & Keysight Technologies, USA)
 - _Kyle Serniak_ (Yale Quantum Institute & MIT Lincoln Laboratory, USA)
 - _Florian Carle_ (Yale Quantum Institute, USA)
 
 
-16:30 – 17:00: **Exploring the Application of Gate-type Quantum Computational Algorithm for Music Creation and Performance**
+16:30 – 17:00: **Exploring the Application of Gate-type Quantum Computational Algorithm for Music Creation and Performance** 
 - _Satofumi Souma_ (Kobe University, Japan)
 
 
-17:00 – 17:30: **Quantum Cellular Automata Music**
+17:00 – 17:30: **Quantum Cellular Automata Music** [[recording](https://www.youtube.com/watch?v=-hAEoG-cjCw&list=PLRmEp241YK0o-0jzPoDcGNdXTEhW71o5n)]
 - _Hector Miller-Bakewell_
 - _Eduardo R. Miranda_ (University of Plymouth, UK)
 
 
-17:30 – 18:00: **QuiKo: Quantum Beat Generation**
+17:30 – 18:00: **QuiKo: Quantum Beat Generation** [[recording](https://www.youtube.com/watch?v=lq51MDFjqos&list=PLRmEp241YK0o-0jzPoDcGNdXTEhW71o5n)]
 - _Scott Oshiro_ (Stanford University, USA)
 
 ### Musical Demonstrations (18:30 - 19:30) [[playlist](https://youtube.com/playlist?list=PLRmEp241YK0o5a6wJEuCbzggHHJWH6XFV)]
@@ -137,13 +137,13 @@ Composition performed live from Yale’s Quantum Labs at the Becton Center in Ne
 09:00 - 10:30: **Intro to Quantum Computer Music – Part 2** [[recording](https://www.youtube.com/watch?v=6UrNguY8zGY&list=PLRmEp241YK0pZjItJ5oZopZt9m-_xsB-Y&index=2)]
 - _Omar Costa Hamido_ (University of Plymouth, UK)
 
-### Research Papers Session III (11:00 – 12:00)
+### Research Papers Session III (11:00 – 12:00) [[playlist](https://youtube.com/playlist?list=PLRmEp241YK0pDsf5riOeTyXspAs0B-IHG)]
 
-11:00 – 11:30: **Quantum Audio Representations**
+11:00 – 11:30: **Quantum Audio Representations** [[recording](https://www.youtube.com/watch?v=J8cPs7tw964&list=PLRmEp241YK0pDsf5riOeTyXspAs0B-IHG)]
 - _Paulo Itaboraí_ (University of Plymouth, UK)
 
 
-11:30 – 12:00: **Quantum Frequency Detector for Audio Files**
+11:30 – 12:00: **Quantum Frequency Detector for Audio Files** [[recording](https://www.youtube.com/watch?v=aN2IMeWWlgM&list=PLRmEp241YK0pDsf5riOeTyXspAs0B-IHG&index=2)]
 - _Rajiv Mistry_ (Pivotport, USA)
 - _Jonathan Ortega_ (Purdue University, USA)
 
