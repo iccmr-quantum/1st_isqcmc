@@ -13,6 +13,7 @@ html {
 }
 
 /* based on code by Amit Sheen */
+/* see _layouts/default.html for more details */
 .back {
   position: absolute;
   /*position: relative;*/
