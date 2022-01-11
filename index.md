@@ -48,7 +48,7 @@ In the meantime, for more information: contact.isqcmc@gmail.com
 
 Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](https://www.inyourowntime.zone/2021-11-19_09.00_Europe.London))
 
-_Updating_: <u>See here the [[complete recordings playlist](https://youtube.com/playlist?list=PLRmEp241YK0qO07F1DtNKA8ZRWdR5DzIP)]</u>
+**See here the [[complete recordings playlist](https://youtube.com/playlist?list=PLRmEp241YK0qO07F1DtNKA8ZRWdR5DzIP)]**
 
 # DAY 1: 19 Nov 2021 
 
