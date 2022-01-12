@@ -48,7 +48,7 @@ In the meantime, for more information: contact.isqcmc@gmail.com
 
 Note: <u>Times in GMT (London, UK time zone)</u> (see in [your own time zone](https://www.inyourowntime.zone/2021-11-19_09.00_Europe.London))
 
-_Updating_: <u>See here the [[complete recordings playlist](https://youtube.com/playlist?list=PLRmEp241YK0qO07F1DtNKA8ZRWdR5DzIP)]</u>
+**See here the [[complete recordings playlist](https://youtube.com/playlist?list=PLRmEp241YK0qO07F1DtNKA8ZRWdR5DzIP)]**
 
 # DAY 1: 19 Nov 2021 
 
@@ -148,15 +148,15 @@ Composition performed live from Yale’s Quantum Labs at the Becton Center in Ne
 - _Jonathan Ortega_ (Purdue University, USA)
 
 
-### Research Papers Session IV (13:00 - 14:30)
+### Research Papers Session IV (13:00 - 14:30) [[playlist](https://youtube.com/playlist?list=PLRmEp241YK0qB-PWf2JhJQiSQkyKCJ7kI)]
 
-13:00 – 13:30: **Photonic Sound Synthesis**
+13:00 – 13:30: **Photonic Sound Synthesis** [[recording](https://www.youtube.com/watch?v=C9fv1OotJtM&list=PLRmEp241YK0qB-PWf2JhJQiSQkyKCJ7kI)]
 - _Eduardo R. Miranda_ (University of Plymouth, UK)
 - _Paul Finlay_ (Xanadu, Toronto, Canada)
 - _Tom Lubowe_ (Xanadu, Toronto, Canada)
 
 
-13:30 – 14:00: **Applications of Quantum Annealing to Music Theory**
+13:30 – 14:00: **Applications of Quantum Annealing to Music Theory** [[recording](https://www.youtube.com/watch?v=tEjSVcLCI1I&list=PLRmEp241YK0qB-PWf2JhJQiSQkyKCJ7kI)]
 - _Özlem Salehi Köken_ (Polish Academy of Sciences, Poland)
 - _Ludmila Botelho_ (Polish Academy of Sciences and Silesian University of Technology, Poland)
 - _Ashish Arya_ (ICT Academy, Indian Institute of Technology, Kanpur, India)
@@ -164,7 +164,7 @@ Composition performed live from Yale’s Quantum Labs at the Becton Center in Ne
 - _Dhruvi Kapadia_ (Sarvajanik College Of Engineering and Technology, India)
 
 
-14:00 – 14:30: **Quantum Adiabatic Computing and Applications to Music**
+14:00 – 14:30: **Quantum Adiabatic Computing and Applications to Music** [[recording](https://www.youtube.com/watch?v=AfzsBnTWZ0Q&list=PLRmEp241YK0qB-PWf2JhJQiSQkyKCJ7kI)]
 
 - _Jake M. Chuharski_ (MIT, USA)
 
